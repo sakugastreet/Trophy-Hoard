@@ -1,0 +1,2160 @@
+﻿Log file open, 03/27/23 18:24:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=14080)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TrophyHoard
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:/Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/TrophyHoard.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2788] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="2b50ff26443b0e4d7641deac3fdbf135"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.250979
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-6A2D92C94C0D9047A709BBAF7F194B9B
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.06 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.08 seconds
+LogConfig: Display: Loading Linux ini files took 0.08 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2788] (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.03.28-00.24.05:512][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.03.28-00.24.05:512][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.03.28-00.24.05:512][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.03.28-00.24.05:515][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.03.28-00.24.05:515][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.03.28-00.24.05:515][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.03.28-00.24.05:515][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.03.28-00.24.05:515][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.03.28-00.24.05:515][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.03.28-00.24.05:515][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.03.28-00.24.05:515][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.03.28-00.24.05:515][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.03.28-00.24.05:515][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.03.28-00.24.05:515][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.03.28-00.24.05:530][  0]LogD3D12RHI: Aftermath initialized
+[2023.03.28-00.24.05:530][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.03.28-00.24.05:689][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.03.28-00.24.05:689][  0]LogD3D12RHI: Adapter has 5968MB of dedicated video memory, 0MB of dedicated system memory, and 8100MB of shared system memory, 1 output[s]
+[2023.03.28-00.24.05:703][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2023.03.28-00.24.05:703][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8100MB of shared system memory, 0 output[s]
+[2023.03.28-00.24.05:706][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.03.28-00.24.05:706][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8100MB of shared system memory, 0 output[s]
+[2023.03.28-00.24.05:707][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.03.28-00.24.05:707][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.28-00.24.05:707][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.03.28-00.24.05:707][  0]LogHAL: Display: Platform has ~ 16 GB [16988237824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.28-00.24.05:707][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.03.28-00.24.05:707][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.03.28-00.24.05:707][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.28-00.24.05:707][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.03.28-00.24.05:707][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/Config/WindowsEditor/Editor.ini]
+[2023.03.28-00.24.05:707][  0]LogInit: Computer: MSI
+[2023.03.28-00.24.05:707][  0]LogInit: User: JosephEarl
+[2023.03.28-00.24.05:707][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.03.28-00.24.05:707][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.28-00.24.05:707][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.03.28-00.24.05:707][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.03.28-00.24.05:707][  0]LogMemory: Process Physical Memory: 277.12 MB used, 284.29 MB peak
+[2023.03.28-00.24.05:707][  0]LogMemory: Process Virtual Memory: 229.59 MB used, 229.59 MB peak
+[2023.03.28-00.24.05:707][  0]LogMemory: Physical Memory: 7497.70 MB used,  8703.55 MB free, 16201.25 MB total
+[2023.03.28-00.24.05:707][  0]LogMemory: Virtual Memory: 11897.10 MB used,  13008.15 MB free, 24905.25 MB total
+[2023.03.28-00.24.05:707][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.03.28-00.24.05:729][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.28-00.24.05:740][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.03.28-00.24.05:740][  0]LogInit: Using OS detected language (en-US).
+[2023.03.28-00.24.05:740][  0]LogInit: Using OS detected locale (en-US).
+[2023.03.28-00.24.05:746][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.03.28-00.24.05:909][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.28-00.24.05:917][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.03.28-00.24.05:917][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.03.28-00.24.05:917][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.03.28-00.24.05:929][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.28-00.24.05:930][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.28-00.24.06:036][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.03.28-00.24.06:039][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.03.28-00.24.06:039][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.03.28-00.24.06:123][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.03.28-00.24.06:169][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.03.28-00.24.06:178][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.03.28-00.24.06:192][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.03.28-00.24.06:207][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.03.28-00.24.06:207][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.03.28-00.24.06:241][  0]LogD3D12RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.28-00.24.06:241][  0]LogWindows: Attached monitors:
+[2023.03.28-00.24.06:241][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.03.28-00.24.06:241][  0]LogWindows: Found 1 attached monitors.
+[2023.03.28-00.24.06:241][  0]LogWindows: EnumDisplayDevices:
+[2023.03.28-00.24.06:241][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.03.28-00.24.06:241][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.03.28-00.24.06:241][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.03.28-00.24.06:241][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.03.28-00.24.06:242][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.03.28-00.24.06:242][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.03.28-00.24.06:242][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.03.28-00.24.06:242][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.03.28-00.24.06:242][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2023.03.28-00.24.06:242][  0]LogD3D12RHI:   Driver Version: 528.49 (internal:31.0.15.2849, unified:528.49)
+[2023.03.28-00.24.06:242][  0]LogD3D12RHI:      Driver Date: 2-2-2023
+[2023.03.28-00.24.06:242][  0]LogRHI: Texture pool is 3276 MB (70% of 4680 MB)
+[2023.03.28-00.24.06:242][  0]LogD3D12RHI: Async texture creation enabled
+[2023.03.28-00.24.06:242][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.03.28-00.24.06:253][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.03.28-00.24.06:257][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/TrophyHoard.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/TrophyHoard.uproject"  -platform=all'
+[2023.03.28-00.24.06:257][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/TrophyHoard.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/TrophyHoard.uproject"  -platform=all" ]
+[2023.03.28-00.24.06:275][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.03.28-00.24.06:282][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.03.28-00.24.06:282][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.03.28-00.24.06:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.28-00.24.06:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.28-00.24.06:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.28-00.24.06:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.28-00.24.06:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.28-00.24.06:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.28-00.24.06:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.28-00.24.06:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.28-00.24.06:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.28-00.24.06:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.28-00.24.06:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.03.28-00.24.06:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.03.28-00.24.06:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.28-00.24.06:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.28-00.24.06:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.28-00.24.06:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.03.28-00.24.06:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.28-00.24.06:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.28-00.24.06:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.03.28-00.24.06:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.03.28-00.24.06:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.03.28-00.24.06:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.28-00.24.06:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.28-00.24.06:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.28-00.24.06:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.03.28-00.24.06:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.28-00.24.06:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.28-00.24.06:322][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.03.28-00.24.06:329][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.28-00.24.06:331][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.03.28-00.24.06:331][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.03.28-00.24.06:331][  0]LogTargetPlatformManager:   ADPCM
+[2023.03.28-00.24.06:331][  0]LogTargetPlatformManager:   PCM
+[2023.03.28-00.24.06:333][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.03.28-00.24.06:333][  0]LogTargetPlatformManager:   BINKA
+[2023.03.28-00.24.06:333][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.03.28-00.24.06:333][  0]LogTargetPlatformManager:   OGG
+[2023.03.28-00.24.06:333][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.03.28-00.24.06:333][  0]LogTargetPlatformManager:   OPUS
+[2023.03.28-00.24.06:374][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager:   SF_METAL
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.03.28-00.24.06:380][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.03.28-00.24.06:383][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.03.28-00.24.06:383][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.03.28-00.24.06:383][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.03.28-00.24.06:383][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.03.28-00.24.06:383][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.03.28-00.24.06:383][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.03.28-00.24.06:383][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.03.28-00.24.06:384][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.28-00.24.06:384][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.03.28-00.24.06:384][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.03.28-00.24.06:385][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.03.28-00.24.06:385][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.03.28-00.24.06:387][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.28-00.24.06:387][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.03.28-00.24.06:387][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.28-00.24.06:387][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.03.28-00.24.06:406][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.03.28-00.24.06:406][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.28-00.24.06:406][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.03.28-00.24.06:416][  0]LogDerivedDataCache: Speed tests for C:/Users/Joseph Earl/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.03.28-00.24.06:416][  0]LogDerivedDataCache: Display: Performance to C:/Users/Joseph Earl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=229.60MBs, RandomWriteSpeed=173.32MBs. Assigned SpeedClass 'Local'
+[2023.03.28-00.24.06:417][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Joseph Earl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.28-00.24.06:417][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.28-00.24.06:417][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.03.28-00.24.06:426][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.03.28-00.24.06:426][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.03.28-00.24.06:426][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Intermediate/Shaders/WorkingDirectory/15724/).
+[2023.03.28-00.24.06:426][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Joseph Earl/AppData/Local/Temp/UnrealShaderWorkingDir/A7ACF3E94546ACB085F84F9D218E215B/'.
+[2023.03.28-00.24.06:427][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.28-00.24.06:427][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.03.28-00.24.07:944][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.03.28-00.24.07:944][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.28-00.24.07:945][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.28-00.24.07:979][  0]LogAssetRegistry: FAssetRegistry took 0.0129 seconds to start up
+[2023.03.28-00.24.07:986][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.03.28-00.24.08:171][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.03.28-00.24.08:171][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.03.28-00.24.08:513][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.28-00.24.08:513][  0]LogDeviceProfileManager: Active device profile: [00000583D73C7540][00000583CE100000 50] WindowsEditor
+[2023.03.28-00.24.08:513][  0]LogDeviceProfileManager: Profiles: [00000583D73C7000][00000583BE6C0000 50] Windows, [00000583D73C7540][00000583CE100000 50] WindowsEditor, [00000583D73C5B00][00000583D7680000 50] WindowsServer, [00000583D73C6C80][00000583D7685000 50] WindowsClient, [00000583D73C3640][00000583D7687800 50] IOS, [00000583D73C6AC0][00000583D768A000 50] iPadAir2, [00000583D73C6900][00000583CE102800 50] IPadPro, [00000583D73C3100][00000583D768C800 50] iPadAir3, [00000583D73C63C0][00000583D76D0000 50] iPadAir4, [00000583D73C24C0][00000583D76D5000 50] iPadMini4, [00000583D73C4980][00000583D76D7800 50] iPadMini5, [00000583D73C4D00][00000583D76DA000 50] iPadMini6, [00000583D73CA640][00000583D7720000 50] iPhone6S, [00000583D73CA9C0][00000583D7722800 50] iPhone7, [00000583D73C7FC0][00000583D7725000 50] iPodTouch7, [00000583D73C8DC0][00000583D772A000 50] iPhone6SPlus, [00000583D73C7C40][00000583D772C800 50] iPhone7Plus, [00000583D73C2F40][00000583D7682800 50] iPhoneSE, [00000583D73C4280][00000583D76DC800 50] iPhone8, [00000583D73C3D40][00000583D7727800 50] iPhone8Plus, [00000583D73CA800][00000583D76E0000 50] iPhoneX, [00000583D73C32C0][00000583D76E5000 50] iPhoneXS, [00000583D73C8F80][00000583D76E7800 50] iPhoneXSMax, [00000583D73C5400][00000583D76EA000 50] iPhoneXR, [00000583D73C9140][00000583D76EC800 50] iPhone11, [00000583D73C6740][00000583D76D2800 50] iPhone11Pro, [00000583D73C78C0][00000583D76F0000 50] iPhone11ProMax, [00000583D73C7700][00000583D76F5000 50] iPhoneSE2, [00000583D73C9680][00000583D76F7800 50] iPhone12Mini, [00000583D73C3480][00000583D76FA000 50] iPhone12, [00000583D73C9BC0][00000583D76FC800 50] iPhone12Pro, [00000583D73C7380][00000583D76E2800 50] iPhone12ProMax, [00000583D73C7A80][00000583D7700000 50] iPhone13Mini, [00000583D73C5240][00000583D7705000 50] iPhone13, [00000583D73C86C0][00000583D7707800 50] iPhone13Pro, [00000583D73C9F40][00000583D770A000 50] iPhone13ProMax, [00000583D73C4EC0][00000583D770C800 50] iPadPro105, [00000583D73C9300][00000583D76F2800 50] iPadPro129, [00000583D73C39C0][00000583D7670000 50] iPadPro97, [00000583D73C3B80][00000583D7675000 50] iPadPro2_129, [00000583D73CA2C0][00000583D7677800 50] iPad5, [00000583D73C5780][00000583D767A000 50] iPad6, [00000583D73C5940][00000583D767C800 50] iPad7, [00000583D73C1F80][00000583D7702800 50] iPad8, [00000583D73C4B40][00000583D7730000 50] iPad9, [00000583D73C4600][00000583D7735000 50] iPadPro11, [00000583D73C9A00][00000583D7737800 50] iPadPro2_11, [00000583D73C6580][00000583D773A000 50] iPadPro3_11, [00000583D73C5E80][00000583D773C800 50] iPadPro3_129, [00000583D73C8180][00000583D7672800 50] iPadPro4_129, [00000583D73C6E40][00000583D7740000 50] iPadPro5_129, [00000583D73C8A40][00000583D7745000 50] AppleTV, [00000583D73C8340][00000583D7747800 50] AppleTV4K, [00000583D73C6040][00000583D774A000 50] TVOS, [00000583D73CCB00][00000583D7732800 50] Mac, [00000583D73CCE80][00000583D774C800 50] MacEditor, [00000583D73CC080][00000583D7750000 50] MacClient, [00000583D73C47C0][00000583D7755000 50] MacServer, [00000583D73CD040][00000583D775A000 50] Linux, [00000583D73C5CC0][00000583D7757800 50] LinuxEditor, [00000583D73CB980][00000583D775C800 50] LinuxArm64Editor, [00000583D73CBEC0][00000583D7742800 50] LinuxArm64, [00000583D73CAD40][00000583D7760000 50] LinuxClient, [00000583D73C3800][00000583D7765000 50] LinuxArm64Client, [00000583D73CAF00][00000583D7767800 50] LinuxServer, [00000583D73C8C00][00000583D776A000 50] LinuxArm64Server, [00000583D73CC240][00000583D776C800 50] Android, [00000583D73C3F00][00000583D7752800 50] Android_Preview_OpenGL, [00000583D73CCCC0][00000583D7770000 50] Android_Preview_Vulkan, [00000583D73CB7C0][00000583D7775000 50] Android_Low, [00000583D73CBB40][00000583D7777800 50] Android_Mid, [00000583D73C7E00][00000583D777A000 50] Android_High, [00000583D73C40C0][00000583D777C800 50] Android_Default, [00000583D73C9840][00000583D7762800 50] Android_Adreno4xx, [00000583D73CC780][00000583D7780000 50] Android_Adreno5xx_Low, [00000583D73CD3C0][00000583D7785000 50] Android_Adreno5xx, [00000583D73CBD00][00000583D7787800 50] Android_Adreno6xx, [00000583D73C2680][00000583D778A000 50] Android_Adreno6xx_Vulkan, [00000583D73C6200][00000583D778C800 50] Android_Adreno7xx, [00000583D73CC5C0][00000583D7772800 50] Android_Adreno7xx_Vulkan, [00000583D73CC940][00000583D7790000 50] Android_Mali_T6xx, [00000583D73C8880][00000583D7795000 50] Android_Mali_T7xx, [00000583D73CD200][00000583D7797800 50] Android_Mali_T8xx, [00000583D73C5080][00000583D779A000 50] Android_Mali_G71, [00000583D73CB280][00000583D779C800 50] Android_Mali_G72, [00000583D73CDC80][00000583D7782800 50] Android_Mali_G72_Vulkan, [00000583D73CD740][00000583D77A0000 50] Android_Mali_G76, [00000583D73CB440][00000583D77A5000 50] Android_Mali_G76_Vulkan, [00000583D73CDE40][00000583D77A7800 50] Android_Mali_G77, [00000583D73C55C0][00000583D77AA000 50] Android_Mali_G77_Vulkan, [00000583D73C94C0][00000583D77AC800 50] Android_Mali_G78, [00000583D73CE000][00000583D7792800 50] Android_Mali_G78_Vulkan, [00000583D73CD580][00000583D77B0000 50] Android_Mali_G710, [00000583D73C8500][00000583D77B5000 50] Android_Mali_G710_Vulkan, [00000583D73CEC40][00000583D77B7800 50] Android_Xclipse_920, [00000583D73CAB80][00000583D77BA000 50] Android_Xclipse_920_Vulkan, [00000583D73CE8C0][00000583D77BC800 50] Android_Vulkan_SM5, [00000583D73CEE00][00000583D77A2800 50] Android_PowerVR_G6xxx, [00000583D73CE1C0][00000583D77C0000 50] Android_PowerVR_GT7xxx, [00000583D73CB600][00000583D77C5000 50] Android_PowerVR_GE8xxx, [00000583D73CEFC0][00000583D77C7800 50] Android_PowerVR_GM9xxx, [00000583D73C9D80][00000583D77CA000 50] Android_PowerVR_GM9xxx_Vulkan, [00000583D73CE540][00000583D77CC800 50] Android_TegraK1, [00000583D77D0000][00000583D77B2800 50] Android_Unknown_Vulkan, [00000583D77D2300][00000583D77E0000 50] Oculus_Quest, [00000583D77D2140][00000583D77E5000 50] Oculus_Quest2, [00000583D77D1F80][00000583D77E7800 50] HoloLens, 
+[2023.03.28-00.24.08:513][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.03.28-00.24.08:516][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.03.28-00.24.08:516][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.03.28-00.24.08:516][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.03.28-00.24.08:516][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.03.28-00.24.08:516][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22000.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.03.28-00.24.08:536][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.03.28-00.24.08:742][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.28-00.24.08:742][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.28-00.24.08:742][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.28-00.24.08:742][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.28-00.24.08:742][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.28-00.24.08:755][  0]LogNetVersion: TrophyHoard 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3023621436)
+[2023.03.28-00.24.08:880][  0]LogSlate: Border
+[2023.03.28-00.24.08:880][  0]LogSlate: BreadcrumbButton
+[2023.03.28-00.24.08:880][  0]LogSlate: Default
+[2023.03.28-00.24.08:880][  0]LogSlate: Icons.Save
+[2023.03.28-00.24.08:880][  0]LogSlate: Icons.Toolbar.Settings
+[2023.03.28-00.24.08:880][  0]LogSlate: ListView
+[2023.03.28-00.24.08:880][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.03.28-00.24.08:880][  0]LogSlate: SoftwareCursor_Grab
+[2023.03.28-00.24.08:880][  0]LogSlate: TableView.DarkRow
+[2023.03.28-00.24.08:880][  0]LogSlate: TableView.Row
+[2023.03.28-00.24.08:880][  0]LogSlate: TreeView
+[2023.03.28-00.24.09:053][  0]SourceControl: Source control is disabled
+[2023.03.28-00.24.09:081][  0]SourceControl: Source control is disabled
+[2023.03.28-00.24.09:081][  0]SourceControl: Source control is disabled
+[2023.03.28-00.24.09:206][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.03.28-00.24.09:206][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.03.28-00.24.09:206][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.28-00.24.09:515][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E04E19AE4AE378221A641BB651D83675 | Instance: 7A94BF3A443661223D4F9881F5EBBF33 (MSI-15724).
+[2023.03.28-00.24.09:547][  0]LogPython: Using Python 3.9.7
+[2023.03.28-00.24.10:330][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.28-00.24.10:334][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.28-00.24.10:405][  0]SourceControl: Source control is disabled
+[2023.03.28-00.24.10:407][  0]SourceControl: Source control is disabled
+[2023.03.28-00.24.10:415][  0]SourceControl: Source control is disabled
+[2023.03.28-00.24.10:421][  0]LogUProjectInfo: Found projects:
+[2023.03.28-00.24.10:668][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.28-00.24.10:722][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.28-00.24.10:729][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.28-00.24.10:729][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.28-00.24.10:823][  0]LogCollectionManager: Loaded 0 collections in 0.001783 seconds
+[2023.03.28-00.24.10:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/Collections/' took 0.00s
+[2023.03.28-00.24.10:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Developers/JosephEarl/Collections/' took 0.00s
+[2023.03.28-00.24.10:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Collections/' took 0.00s
+[2023.03.28-00.24.11:200][  0]LogEngine: Initializing Engine...
+[2023.03.28-00.24.11:216][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.03.28-00.24.11:217][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.28-00.24.11:485][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.28-00.24.11:486][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-00.24.11:498][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.24.11:530][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.28-00.24.11:531][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.28-00.24.11:555][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.28-00.24.11:556][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.28-00.24.11:556][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.03.28-00.24.11:556][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.28-00.24.11:556][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.28-00.24.11:556][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.28-00.24.11:556][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.28-00.24.11:556][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.28-00.24.11:556][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.28-00.24.11:556][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.28-00.24.11:556][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.28-00.24.11:556][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.28-00.24.11:556][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.28-00.24.11:557][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.28-00.24.11:557][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.28-00.24.11:557][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.28-00.24.11:563][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.28-00.24.11:678][  0]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.03.28-00.24.11:678][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.28-00.24.11:680][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.28-00.24.11:680][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.28-00.24.11:681][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.03.28-00.24.11:681][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.28-00.24.11:682][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.28-00.24.11:682][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.03.28-00.24.11:682][  0]LogInit: FAudioDevice initialized.
+[2023.03.28-00.24.11:682][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.28-00.24.11:682][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.28-00.24.11:682][  0]LogInit: Texture streaming: Enabled
+[2023.03.28-00.24.11:717][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.03.28-00.24.11:725][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.28-00.24.11:751][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.03.28-00.24.11:758][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.03.28-00.24.11:759][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.03.28-00.24.12:967][  0]LogLiveCoding: Display: First instance in process group "UE_TrophyHoard_0x967fea5f", spawning console
+[2023.03.28-00.24.12:967][  0]LogLiveCoding: Display: Waiting for server
+[2023.03.28-00.24.12:967][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.03.28-00.24.12:995][  0]LogInit: Transaction tracking system initialized
+[2023.03.28-00.24.13:088][  0]BlueprintLog: New page: Editor Load
+[2023.03.28-00.24.13:298][  0]LocalizationService: Localization service is disabled
+[2023.03.28-00.24.13:351][  0]TimingProfiler: Initialize
+[2023.03.28-00.24.13:351][  0]TimingProfiler: OnSessionChanged
+[2023.03.28-00.24.13:351][  0]LoadingProfiler: Initialize
+[2023.03.28-00.24.13:351][  0]LoadingProfiler: OnSessionChanged
+[2023.03.28-00.24.13:351][  0]NetworkingProfiler: Initialize
+[2023.03.28-00.24.13:351][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.28-00.24.13:351][  0]MemoryProfiler: Initialize
+[2023.03.28-00.24.13:351][  0]MemoryProfiler: OnSessionChanged
+[2023.03.28-00.24.13:915][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/' took 0.03s
+[2023.03.28-00.24.13:915][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.03.28-00.24.14:128][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.28-00.24.14:129][  0]SourceControl: Source control is disabled
+[2023.03.28-00.24.14:130][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.834
+[2023.03.28-00.24.14:130][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/ThirdPerson/Maps/Courtyard.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.28-00.24.14:130][  0]LightingResults: New page: Lighting Build
+[2023.03.28-00.24.14:138][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.24.14:138][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.24.14:138][  0]MapCheck: New page: Map Check
+[2023.03.28-00.24.14:138][  0]LightingResults: New page: Lighting Build
+[2023.03.28-00.24.14:144][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.28-00.24.14:147][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.03.28-00.24.15:053][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Courtyard'.
+[2023.03.28-00.24.15:053][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.28-00.24.15:053][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.24.15:054][  0]LogAIModule: Creating AISystem for world Courtyard
+[2023.03.28-00.24.15:093][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.28-00.24.15:108][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.03.28-00.24.15:108][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.28-00.24.15:108][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.281ms to complete.
+[2023.03.28-00.24.15:108][  0]LogFileHelpers: Loading map 'Courtyard' took 0.978
+[2023.03.28-00.24.15:123][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.827
+[2023.03.28-00.24.15:123][  0]LogShaderCompilers: Display: ================================================
+[2023.03.28-00.24.15:123][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.28-00.24.15:123][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.28-00.24.15:123][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.28-00.24.15:124][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.03.28-00.24.15:124][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.28-00.24.15:124][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.28-00.24.15:124][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.28-00.24.15:124][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.28-00.24.15:124][  0]LogShaderCompilers: Display: ================================================
+[2023.03.28-00.24.15:221][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-00.24.15:226][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-00.24.15:231][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-00.24.15:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.28-00.24.15:295][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.03.28-00.24.15:295][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.28-00.24.15:296][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.03.28-00.24.15:296][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.28-00.24.15:296][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.03.28-00.24.15:296][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.28-00.24.15:297][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.03.28-00.24.15:297][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.28-00.24.15:297][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.03.28-00.24.15:298][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.28-00.24.15:298][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.03.28-00.24.15:298][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.28-00.24.15:298][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.03.28-00.24.15:298][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.28-00.24.15:299][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.03.28-00.24.15:299][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.28-00.24.15:299][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.03.28-00.24.15:299][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.28-00.24.15:300][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.03.28-00.24.15:300][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.28-00.24.15:300][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.03.28-00.24.15:427][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.03.28-00.24.15:520][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.03.28-00.24.16:049][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.28-00.24.16:051][  0]LogSlate: Took 0.000489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.28-00.24.16:053][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.28-00.24.16:054][  0]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.28-00.24.16:087][  0]LogViewport: Scene viewport resized to 1499x908, mode Windowed.
+[2023.03.28-00.24.16:894][  0]LogStall: Startup...
+[2023.03.28-00.24.16:896][  0]LogStall: Startup complete.
+[2023.03.28-00.24.16:911][  0]LogLoad: (Engine Initialization) Total time: 12.61 seconds
+[2023.03.28-00.24.16:911][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.28-00.24.17:000][  0]LogAssetRegistry: Asset discovery search completed in 9.0224 seconds
+[2023.03.28-00.24.17:011][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.03.28-00.24.17:044][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.28-00.24.17:981][ 14]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Characters/Tipo/Tipo_BP.Tipo_BP) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.03.28-00.24.17:981][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Tipo/Tipo_BP.Tipo_BP
+[2023.03.28-00.24.17:982][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.24.19:322][ 14]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/ThirdPerson/Blueprints/NEWBase_Blueprint1.NEWBase_Blueprint1) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.03.28-00.24.19:322][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/NEWBase_Blueprint1.NEWBase_Blueprint1
+[2023.03.28-00.24.19:323][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.24.19:680][ 14]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/ThirdPerson/Blueprints/Test.Test) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.03.28-00.24.19:680][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Test.Test
+[2023.03.28-00.24.19:680][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.24.20:043][ 14]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/ThirdPerson/Blueprints/Mine_BP.Mine_BP) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.03.28-00.24.20:043][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Mine_BP.Mine_BP
+[2023.03.28-00.24.20:044][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.24.20:414][ 14]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/ThirdPerson/GameModes/GameInstance_BP.GameInstance_BP) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.03.28-00.24.20:414][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/GameModes/GameInstance_BP.GameInstance_BP
+[2023.03.28-00.24.20:415][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.24.20:770][ 14]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/UI/GamePlay/GameplayUI_W.GameplayUI_W) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.03.28-00.24.20:770][ 14]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/GamePlay/GameplayUI_W.GameplayUI_W
+[2023.03.28-00.24.20:771][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.24.20:780][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.24.20:790][ 14]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.03.28-00.24.21:135][ 14]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.28-00.24.21:135][ 14]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.28-00.24.21:162][ 14]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Characters/Tipo/Animations/WalkingBlendSpace.WalkingBlendSpace) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.03.28-00.24.21:162][ 14]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/Tipo/Animations/WalkingBlendSpace.WalkingBlendSpace
+[2023.03.28-00.24.21:179][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.24.21:219][ 14]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2023.03.28-00.24.21:230][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.28-00.24.21:397][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.24.21:875][ 14]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.28-00.24.21:888][ 14]LogViewport: Scene viewport resized to 1138x541, mode Windowed.
+[2023.03.28-00.24.21:945][ 14]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.28-00.24.28:452][370]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.28-00.24.37:339][901]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.24.41:396][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.03.28-00.24.45:411][129]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.28-00.25.25:555][234]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Joseph Earl/Desktop/Old Harddrive/3D Objects/My Work/Characters/ProjectJ/Sprinting Animation.fbx)
+[2023.03.28-00.25.25:573][234]LogFbx: Loading FBX Scene from ../../../../../../Users/Joseph Earl/Desktop/Old Harddrive/3D Objects/My Work/Characters/ProjectJ/Sprinting Animation.fbx
+[2023.03.28-00.25.25:799][234]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.28-00.25.27:292][234]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.28-00.25.29:467][234]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.28-00.25.29:502][234]LogFbx: Valid bind pose for Pose (Cube.007) - bod
+[2023.03.28-00.25.29:502][234]LogFbx: Valid bind pose for Pose (Cube.008) - bod
+[2023.03.28-00.25.29:502][234]LogFbx: Valid bind pose for Pose (Mesh) - bod
+[2023.03.28-00.25.29:502][234]LogFbx: Valid bind pose for Pose (Mesh.001) - bod
+[2023.03.28-00.25.29:503][234]LogFbx: Valid bind pose for Pose (Mesh.002) - bod
+[2023.03.28-00.25.29:503][234]LogFbx: Valid bind pose for Pose (Cylinder.001) - bod
+[2023.03.28-00.25.29:508][234]LogMaterial: Display: Material /Game/Characters/Tipo/Animations/NewFolder/Material.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.28-00.25.29:511][234]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: FAA9B2BBB3000F9490F2A346DB7E7836E44C4EEB), compiling. 
+[2023.03.28-00.25.29:628][234]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 48651A8255C9E30D6075217DE03E3CCD43012ECA), compiling. 
+[2023.03.28-00.25.29:645][234]LogFbx: Triangulating skeletal mesh bod
+[2023.03.28-00.25.29:700][234]LogMaterial: Display: Material /Game/Characters/Tipo/Animations/NewFolder/Material_003.Material_003 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.28-00.25.29:715][234]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 600C95DEC1909CE4AC88E6BDFA6FB505FE4619C0), compiling. 
+[2023.03.28-00.25.29:758][234]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: B2AA3264C7479614AFCFE24C3F7B4695C63ADA2B), compiling. 
+[2023.03.28-00.25.29:772][234]LogFbx: Triangulating skeletal mesh pant
+[2023.03.28-00.25.29:797][234]LogMaterial: Display: Material /Game/Characters/Tipo/Animations/NewFolder/Material_002.Material_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.28-00.25.29:801][234]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: E03E819C9ADCC715B8391C5F0A46A800F99D20A2), compiling. 
+[2023.03.28-00.25.29:840][234]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D07E12845D3C2043F0715CC7AF2A43B2C500781), compiling. 
+[2023.03.28-00.25.29:855][234]LogFbx: Triangulating skeletal mesh Shirt
+[2023.03.28-00.25.29:945][234]LogMaterial: Display: Material /Game/Characters/Tipo/Animations/NewFolder/Material_001.Material_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.28-00.25.29:950][234]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: ECA14AAB236BB9655F8D6A855C0A86FD83357816), compiling. 
+[2023.03.28-00.25.29:992][234]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: C1A7C456ECDBF08F41762A183C1D296FFE93ECD8), compiling. 
+[2023.03.28-00.25.30:006][234]LogFbx: Triangulating skeletal mesh Hair
+[2023.03.28-00.25.30:204][234]LogMaterial: Display: Material /Game/Characters/Tipo/Animations/NewFolder/Material_006.Material_006 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.28-00.25.30:208][234]LogMaterial: Display: Missing cached shadermap for Material_006 in PCD3D_SM5, Default, SM5 (DDC key hash: A4816C34A4C4B5AC4579300F087FCC38C14FDBC7), compiling. 
+[2023.03.28-00.25.30:246][234]LogMaterial: Display: Missing cached shadermap for Material_006 in PCD3D_SM5, Default, SM5 (DDC key hash: B56CBAE6A9C4D4D1D3611D4ACC1C3CC0CF9DB5ED), compiling. 
+[2023.03.28-00.25.30:260][234]LogFbx: Triangulating skeletal mesh Shirt.001
+[2023.03.28-00.25.30:284][234]LogMaterial: Display: Material /Game/Characters/Tipo/Animations/NewFolder/Material_007.Material_007 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.28-00.25.30:288][234]LogMaterial: Display: Missing cached shadermap for Material_007 in PCD3D_SM5, Default, SM5 (DDC key hash: AA10EA3DF859C510D369C2EDB1B0D0FCE92A4D99), compiling. 
+[2023.03.28-00.25.30:327][234]LogMaterial: Display: Missing cached shadermap for Material_007 in PCD3D_SM5, Default, SM5 (DDC key hash: E5E2F94D96529D770FDD5E0DD4D4DC913B2ECC45), compiling. 
+[2023.03.28-00.25.30:342][234]LogFbx: Triangulating skeletal mesh Boots
+[2023.03.28-00.25.30:370][234]LogFbx: Warning: Bones digested - 42  Depth of hierarchy - 11
+[2023.03.28-00.25.30:925][234]LogSkeletalMesh: Section 0: Material=0, 2920 triangles
+[2023.03.28-00.25.30:925][234]LogSkeletalMesh: Section 1: Material=1, 1152 triangles
+[2023.03.28-00.25.30:925][234]LogSkeletalMesh: Section 2: Material=2, 5088 triangles
+[2023.03.28-00.25.30:925][234]LogSkeletalMesh: Section 3: Material=3, 11732 triangles
+[2023.03.28-00.25.30:925][234]LogSkeletalMesh: Section 4: Material=4, 1152 triangles
+[2023.03.28-00.25.30:925][234]LogSkeletalMesh: Section 5: Material=5, 232 triangles
+[2023.03.28-00.25.30:952][234]LogSkeletalMesh: Building Skeletal Mesh Sprinting_Animation...
+[2023.03.28-00.25.30:952][234]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Sprinting_Animation) ...
+[2023.03.28-00.25.31:447][234]LogSkeletalMesh: Built Skeletal Mesh [0.51s] /Game/Characters/Tipo/Animations/NewFolder/Sprinting_Animation.Sprinting_Animation
+[2023.03.28-00.25.31:493][234]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.25.31:507][234]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.03.28-00.25.31:507][234]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.25.31:507][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.25.31:515][234]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.25.31:533][234]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.25.31:533][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.25.31:597][234]FBXImport: Warning: The following bones are missing from the bind pose:
+Bone.005_end  
+Finger.L_end  
+Finger.R_end  
+Toes.L_end  
+UpperLeg.L.001_end  
+Toes.R_end  
+UpperLeg.R.001_end  
+InverseKinematics.L_end  
+PoleArm.L_end  
+InverseKinematics.R_end  
+PoleArm.R_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2023.03.28-00.25.37:357][555]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-00.25.37:364][555]LogSlate: Window 'Message Log' being destroyed
+[2023.03.28-00.25.42:358][794]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Tipo/Animations/NewFolder/Sprinting_Animation.Sprinting_Animation
+[2023.03.28-00.25.42:359][794]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.25.42:410][794]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.28-00.25.43:263][794]LogViewport: Scene viewport resized to 1138x863, mode Windowed.
+[2023.03.28-00.25.54:060][ 98]LogSlate: Window 'Sprinting_Animation' being destroyed
+[2023.03.28-00.25.54:065][ 98]LogSlate: Window 'Sprinting_Animation' being destroyed
+[2023.03.28-00.25.54:067][ 98]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.25.54:067][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.26.06:857][229]LogDerivedDataCache: C:/Users/Joseph Earl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.376 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.28-00.26.45:067][702]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.28-00.26.45:089][702]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.28-00.26.45:098][703]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.28-00.26.45:876][750]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.03.28-00.26.45:877][750]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.28-00.26.48:780][840]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Joseph Earl/Desktop/Old Harddrive/3D Objects/My Work/Characters/ProjectJ/Sprinting Animation.fbx)
+[2023.03.28-00.26.48:798][840]LogFbx: Loading FBX Scene from ../../../../../../Users/Joseph Earl/Desktop/Old Harddrive/3D Objects/My Work/Characters/ProjectJ/Sprinting Animation.fbx
+[2023.03.28-00.26.49:058][840]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.28-00.26.53:869][840]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.28-00.26.53:906][840]LogFbx: Valid bind pose for Pose (Cube.007) - bod
+[2023.03.28-00.26.53:907][840]LogFbx: Valid bind pose for Pose (Cube.008) - bod
+[2023.03.28-00.26.53:907][840]LogFbx: Valid bind pose for Pose (Mesh) - bod
+[2023.03.28-00.26.53:907][840]LogFbx: Valid bind pose for Pose (Mesh.001) - bod
+[2023.03.28-00.26.53:907][840]LogFbx: Valid bind pose for Pose (Mesh.002) - bod
+[2023.03.28-00.26.53:907][840]LogFbx: Valid bind pose for Pose (Cylinder.001) - bod
+[2023.03.28-00.26.53:910][840]LogMaterial: Display: Material /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Material.Material needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.28-00.26.53:914][840]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 64629421C0CC876A2FCEF22EF4B9B3E7FC5A0AB4), compiling. 
+[2023.03.28-00.26.53:965][840]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 616CA8390C48B3D9FDA79EB90CEAE8464D673DEE), compiling. 
+[2023.03.28-00.26.53:985][840]LogFbx: Triangulating skeletal mesh bod
+[2023.03.28-00.26.54:046][840]LogMaterial: Display: Material /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Material_003.Material_003 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.28-00.26.54:052][840]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: DD95E7DAFEB1EFFD65774ACCCED70F749CDF4F84), compiling. 
+[2023.03.28-00.26.54:094][840]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: DAEE83FCF95216B64EF3DBAD838D164036154BC5), compiling. 
+[2023.03.28-00.26.54:112][840]LogFbx: Triangulating skeletal mesh pant
+[2023.03.28-00.26.54:140][840]LogMaterial: Display: Material /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Material_002.Material_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.28-00.26.54:146][840]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: DCF44E3CB8095ECD93D40B4DBA63F28A4F571D5A), compiling. 
+[2023.03.28-00.26.54:193][840]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 48A213870BCA867521D7E3CFAE336F9AE750C847), compiling. 
+[2023.03.28-00.26.54:210][840]LogFbx: Triangulating skeletal mesh Shirt
+[2023.03.28-00.26.54:311][840]LogMaterial: Display: Material /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Material_001.Material_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.28-00.26.54:316][840]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 7310047B518E5D0819FF49E51419137E79E0FDB7), compiling. 
+[2023.03.28-00.26.54:359][840]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 42DA9C899150BB0880E27B6B0A25DAA50ECB9C60), compiling. 
+[2023.03.28-00.26.54:375][840]LogFbx: Triangulating skeletal mesh Hair
+[2023.03.28-00.26.54:614][840]LogMaterial: Display: Material /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Material_006.Material_006 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.28-00.26.54:620][840]LogMaterial: Display: Missing cached shadermap for Material_006 in PCD3D_SM5, Default, SM5 (DDC key hash: EC8684C5006E90AD80445DF6601F6191D5B6FFBE), compiling. 
+[2023.03.28-00.26.54:662][840]LogMaterial: Display: Missing cached shadermap for Material_006 in PCD3D_SM5, Default, SM5 (DDC key hash: 5BD104BA281DB6569DEECFD91791669757DE3C09), compiling. 
+[2023.03.28-00.26.54:678][840]LogFbx: Triangulating skeletal mesh Shirt.001
+[2023.03.28-00.26.54:706][840]LogMaterial: Display: Material /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Material_007.Material_007 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.28-00.26.54:712][840]LogMaterial: Display: Missing cached shadermap for Material_007 in PCD3D_SM5, Default, SM5 (DDC key hash: 3C321394F287FA3C7682254ED1601CEF1E8C52BD), compiling. 
+[2023.03.28-00.26.54:759][840]LogMaterial: Display: Missing cached shadermap for Material_007 in PCD3D_SM5, Default, SM5 (DDC key hash: A320FC8BB816A5B827111EE2D2259381F6C771CD), compiling. 
+[2023.03.28-00.26.54:777][840]LogFbx: Triangulating skeletal mesh Boots
+[2023.03.28-00.26.54:806][840]LogFbx: Warning: Bones digested - 31  Depth of hierarchy - 10
+[2023.03.28-00.26.55:416][840]LogSkeletalMesh: Section 0: Material=0, 2920 triangles
+[2023.03.28-00.26.55:416][840]LogSkeletalMesh: Section 1: Material=1, 1152 triangles
+[2023.03.28-00.26.55:416][840]LogSkeletalMesh: Section 2: Material=2, 5088 triangles
+[2023.03.28-00.26.55:416][840]LogSkeletalMesh: Section 3: Material=3, 11732 triangles
+[2023.03.28-00.26.55:416][840]LogSkeletalMesh: Section 4: Material=4, 1152 triangles
+[2023.03.28-00.26.55:416][840]LogSkeletalMesh: Section 5: Material=5, 232 triangles
+[2023.03.28-00.26.55:442][840]LogSkeletalMesh: Building Skeletal Mesh Sprinting_Animation...
+[2023.03.28-00.26.55:442][840]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Sprinting_Animation) ...
+[2023.03.28-00.26.55:989][840]LogSkeletalMesh: Built Skeletal Mesh [0.55s] /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_Animation.Sprinting_Animation
+[2023.03.28-00.26.55:989][840]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.26.56:007][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.03.28-00.26.56:007][840]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.26.56:007][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.26.56:016][840]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.26.56:029][840]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.26.56:029][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.26.57:959][925]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_Animation.Sprinting_Animation
+[2023.03.28-00.26.57:960][925]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.26.57:983][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.28-00.26.58:390][925]LogViewport: Scene viewport resized to 1138x863, mode Windowed.
+[2023.03.28-00.27.02:426][101]LogSlate: Window 'Sprinting_Animation' being destroyed
+[2023.03.28-00.27.02:431][101]LogSlate: Window 'Sprinting_Animation' being destroyed
+[2023.03.28-00.27.02:432][101]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.27.02:432][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.32.03:040][375]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Joseph Earl/Desktop/Old Harddrive/3D Objects/My Work/Characters/ProjectJ/Sprinting.fbx)
+[2023.03.28-00.32.03:053][375]LogFbx: Loading FBX Scene from ../../../../../../Users/Joseph Earl/Desktop/Old Harddrive/3D Objects/My Work/Characters/ProjectJ/Sprinting.fbx
+[2023.03.28-00.32.03:253][375]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.28-00.32.11:535][375]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:573][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:574][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:575][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:576][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:577][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:578][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:579][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.32.11:580][375]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.32.11:604][375]LogFbx: Parsing AnimStack Walking.001
+[2023.03.28-00.32.11:655][375]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_Walking_001.Sprinting_Walking_001
+[2023.03.28-00.32.11:655][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.11:656][375]LogFbx: Parsing AnimStack Running
+[2023.03.28-00.32.11:703][375]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_Running.Sprinting_Running
+[2023.03.28-00.32.11:703][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.11:704][375]LogFbx: Parsing AnimStack Walking.002
+[2023.03.28-00.32.11:753][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.11:754][375]LogFbx: Parsing AnimStack Running.001
+[2023.03.28-00.32.11:794][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.11:795][375]LogFbx: Parsing AnimStack Idle
+[2023.03.28-00.32.11:858][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.11:859][375]LogFbx: Parsing AnimStack Idle.001
+[2023.03.28-00.32.11:922][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.11:923][375]LogFbx: Parsing AnimStack sprinting
+[2023.03.28-00.32.11:955][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.11:955][375]LogFbx: Parsing AnimStack BaseArmeture.001|Action
+[2023.03.28-00.32.12:055][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.12:055][375]LogFbx: Parsing AnimStack BaseArmeture.001|CarryingIdle
+[2023.03.28-00.32.12:120][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.12:121][375]LogFbx: Parsing AnimStack BaseArmeture.001|CarryingRun
+[2023.03.28-00.32.12:159][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.12:160][375]LogFbx: Parsing AnimStack BaseArmeture.001|CarryingWalk
+[2023.03.28-00.32.12:201][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.12:202][375]LogFbx: Parsing AnimStack BaseArmeture.001|Idle
+[2023.03.28-00.32.12:259][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.12:260][375]LogFbx: Parsing AnimStack BaseArmeture.001|PoseLib
+[2023.03.28-00.32.12:271][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.12:272][375]LogFbx: Parsing AnimStack BaseArmeture.001|Running
+[2023.03.28-00.32.12:311][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.12:312][375]LogFbx: Parsing AnimStack BaseArmeture.001|Sprinting
+[2023.03.28-00.32.12:414][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	TipoAnim_BP_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TipoAnim_BP_C_0
+	Function /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP_C:ExecuteUbergraph_TipoAnim_BP:0040
+[2023.03.28-00.32.12:414][375]LogFbx: Parsing AnimStack BaseArmeture.001|sprinting
+[2023.03.28-00.32.12:450][375]LogFbx: Parsing AnimStack BaseArmeture.001|Walking.001
+[2023.03.28-00.32.12:576][376]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_BaseArmeture_001_Sprinting.Sprinting_BaseArmeture_001_Sprinting
+[2023.03.28-00.32.12:576][376]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_BaseArmeture_001_Walking_001.Sprinting_BaseArmeture_001_Walking_001
+[2023.03.28-00.32.12:622][378]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_BaseArmeture_001_Running.Sprinting_BaseArmeture_001_Running
+[2023.03.28-00.32.12:659][378]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_BaseArmeture_001_PoseLib.Sprinting_BaseArmeture_001_PoseLib
+[2023.03.28-00.32.12:660][378]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_BaseArmeture_001_Idle.Sprinting_BaseArmeture_001_Idle
+[2023.03.28-00.32.12:983][381]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_BaseArmeture_001_Action.Sprinting_BaseArmeture_001_Action
+[2023.03.28-00.32.13:003][382]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_sprinting.Sprinting_sprinting
+[2023.03.28-00.32.13:060][385]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_Idle.Sprinting_Idle
+[2023.03.28-00.32.13:060][385]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_Idle_001.Sprinting_Idle_001
+[2023.03.28-00.32.13:082][386]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_Walking_002.Sprinting_Walking_002
+[2023.03.28-00.32.13:084][386]LogDerivedDataCache: Display: C:/Users/Joseph Earl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 11e7bb098a554f58a391c68c3cce4ae8509b6b6d and existing hash 78341d7c22969d8281c0b5d2665ce232e941efde for LegacyAnimSeq/2c80291ad5aa7190dea0cdebf553a67fa73e8995 from 'Unknown Context'
+[2023.03.28-00.32.22:467][928]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_Walking_001.Sprinting_Walking_001
+[2023.03.28-00.32.22:919][928]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.28-00.32.22:927][928]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.32.23:306][947]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2023.03.28-00.32.28:562][251]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.32.28:563][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.32.28:593][251]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.32.28:593][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.32.28:655][251]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.32.28:655][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.32.28:717][251]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.28-00.32.28:725][251]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.03.28-00.32.33:675][532]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_Running.Sprinting_Running
+[2023.03.28-00.32.33:677][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.32.33:704][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.28-00.32.33:962][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.32.34:093][532]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.28-00.32.34:100][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.32.34:124][532]LogViewport: Scene viewport resized to 1138x541, mode Windowed.
+[2023.03.28-00.32.34:142][532]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.28-00.32.45:005][ 49]LogSlate: Window 'Sprinting_Running' being destroyed
+[2023.03.28-00.32.45:011][ 49]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.32.45:012][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.32.45:046][ 49]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.32.45:046][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.32.45:134][ 49]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.32.45:134][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.32.48:263][222]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_BaseArmeture_001_Sprinting.Sprinting_BaseArmeture_001_Sprinting
+[2023.03.28-00.32.48:264][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.32.48:288][222]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.28-00.32.48:556][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.32.48:694][222]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.28-00.32.48:701][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.32.48:724][222]LogViewport: Scene viewport resized to 1138x541, mode Windowed.
+[2023.03.28-00.32.48:743][222]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.28-00.33.09:491][ 57]LogSlate: Window 'Sprinting_BaseArmeture_001_Sprinting' being destroyed
+[2023.03.28-00.33.09:496][ 57]LogSlate: Window 'Sprinting_BaseArmeture_001_Sprinting' being destroyed
+[2023.03.28-00.33.09:496][ 57]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.33.09:496][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.33.09:531][ 57]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.33.09:531][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.33.09:616][ 57]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.33.09:616][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.33.18:897][484]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/NewFolder/Sprinting_BaseArmeture_001_Walking_001.Sprinting_BaseArmeture_001_Walking_001
+[2023.03.28-00.33.18:905][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.33.18:929][484]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.28-00.33.19:195][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.33.19:332][484]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.03.28-00.33.19:340][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.33.19:364][484]LogViewport: Scene viewport resized to 1138x541, mode Windowed.
+[2023.03.28-00.33.19:384][484]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.28-00.33.28:992][851]LogSlate: Window 'Sprinting_BaseArmeture_001_Walking_001' being destroyed
+[2023.03.28-00.33.28:997][851]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.33.28:997][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.33.29:032][851]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.33.29:033][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.33.29:135][851]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.03.28-00.33.29:136][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.28-00.34.20:818][410]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Tipo/Animations/TipoAnim_BP.TipoAnim_BP
+[2023.03.28-00.34.20:818][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.34.20:851][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.34.20:862][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.28-00.34.21:609][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.34.21:735][410]LogViewport: Scene viewport resized to 474x406, mode Windowed.
+[2023.03.28-00.34.42:275][628]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.03.28-00.34.54:606][324]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/Tipo/Animations/WalkingBlendSpace.WalkingBlendSpace
+[2023.03.28-00.34.54:607][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.34.54:638][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.28-00.34.54:843][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.28-00.34.54:996][324]LogViewport: Scene viewport resized to 1138x541, mode Windowed.
+[2023.03.28-00.34.55:013][324]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.28-00.34.58:025][501]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2023.03.28-00.37.02:123][ 60]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Joseph Earl/Desktop/Old Harddrive/3D Objects/My Work/Characters/ProjectJ/Sprinting.fbx)
+[2023.03.28-00.37.02:143][ 60]LogFbx: Loading FBX Scene from ../../../../../../Users/Joseph Earl/Desktop/Old Harddrive/3D Objects/My Work/Characters/ProjectJ/Sprinting.fbx
+[2023.03.28-00.37.02:372][ 60]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.28-00.37.06:563][ 60]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:604][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:605][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:606][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:607][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:608][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:609][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:610][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:611][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(0) BaseArmeture_001
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(1) Bone
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(2) Bone_001
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(3) Bone_002
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(4) Bone_003
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(5) Bone_004
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(6) Bone_005
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(7) Shoulder_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(8) UpperArm_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(9) LowerArm_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(10) Palm_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(11) Finger_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(12) Shoulder_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(13) UpperArm_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(14) LowerArm_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(15) Palm_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(16) Finger_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(17) UpperLeg_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(18) LowerLeg_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(19) Foot_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(20) Toes_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(21) UpperLeg_L_001
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(22) UpperLeg_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(23) LowerLeg_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(24) Foot_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(25) Toes_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(26) UpperLeg_R_001
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(27) InverseKinematics_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(28) PoleArm_L
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(29) InverseKinematics_R
+[2023.03.28-00.37.06:612][ 60]LogFbx: SortedLinks :(30) PoleArm_R
+[2023.03.28-00.37.06:635][ 60]LogFbx: Parsing AnimStack Walking.001
+[2023.03.28-00.37.06:686][ 60]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/Sprinting_Walking_001.Sprinting_Walking_001
+[2023.03.28-00.37.06:686][ 60]LogFbx: Parsing AnimStack Running
+[2023.03.28-00.37.06:738][ 60]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/Sprinting_Running.Sprinting_Running
+[2023.03.28-00.37.06:738][ 60]LogFbx: Parsing AnimStack Walking.002
+[2023.03.28-00.37.06:789][ 60]LogFbx: Parsing AnimStack Running.001
+[2023.03.28-00.37.06:835][ 60]LogFbx: Parsing AnimStack Idle
+[2023.03.28-00.37.06:910][ 60]LogFbx: Parsing AnimStack Idle.001
+[2023.03.28-00.37.06:980][ 60]LogFbx: Parsing AnimStack sprinting
+[2023.03.28-00.37.07:016][ 60]LogFbx: Parsing AnimStack BaseArmeture.001|Action
+[2023.03.28-00.37.07:134][ 60]LogFbx: Parsing AnimStack BaseArmeture.001|CarryingIdle
+[2023.03.28-00.37.07:211][ 60]LogFbx: Parsing AnimStack BaseArmeture.001|CarryingRun
+[2023.03.28-00.37.07:258][ 60]LogFbx: Parsing AnimStack BaseArmeture.001|CarryingWalk
+[2023.03.28-00.37.07:313][ 60]LogFbx: Parsing AnimStack BaseArmeture.001|Idle
+[2023.03.28-00.37.07:388][ 60]LogFbx: Parsing AnimStack BaseArmeture.001|PoseLib
+[2023.03.28-00.37.07:406][ 60]LogFbx: Parsing AnimStack BaseArmeture.001|Running
+[2023.03.28-00.37.07:452][ 60]LogFbx: Parsing AnimStack BaseArmeture.001|Sprinting
+[2023.03.28-00.37.07:569][ 60]LogFbx: Parsing AnimStack BaseArmeture.001|sprinting
+[2023.03.28-00.37.07:612][ 60]LogFbx: Parsing AnimStack BaseArmeture.001|Walking.001
+[2023.03.28-00.37.07:752][ 61]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/Sprinting_BaseArmeture_001_Sprinting.Sprinting_BaseArmeture_001_Sprinting
+[2023.03.28-00.37.07:752][ 61]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/Sprinting_BaseArmeture_001_Walking_001.Sprinting_BaseArmeture_001_Walking_001
+[2023.03.28-00.37.07:803][ 63]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/Sprinting_BaseArmeture_001_Running.Sprinting_BaseArmeture_001_Running
+[2023.03.28-00.37.07:833][ 64]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/Sprinting_BaseArmeture_001_PoseLib.Sprinting_BaseArmeture_001_PoseLib
+[2023.03.28-00.37.07:834][ 64]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/Sprinting_BaseArmeture_001_Idle.Sprinting_BaseArmeture_001_Idle
+[2023.03.28-00.37.08:036][ 66]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/Sprinting_BaseArmeture_001_Action.Sprinting_BaseArmeture_001_Action
+[2023.03.28-00.37.08:084][ 67]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/Sprinting_sprinting.Sprinting_sprinting
+[2023.03.28-00.37.08:123][ 68]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/Sprinting_Idle_001.Sprinting_Idle_001
+[2023.03.28-00.37.08:138][ 69]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Tipo/Animations/NewFolder/Sprinting_Walking_002.Sprinting_Walking_002
+[2023.03.28-00.37.33:485][289]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2023.03.28-00.37.36:202][289]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.28-00.37.41:140][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.03.28-00.37.41:287][562]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.009140 seconds
+[2023.03.28-00.37.41:294][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Animations/Tipo_Anim_Fall1
+[2023.03.28-00.37.41:295][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/Tipo_Anim_Fall118FCB1BD4766BB082F45E3ACE88BB7C1.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Animations/Tipo_Anim_Fall1.uasset'
+[2023.03.28-00.37.41:319][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Tipo_Skeleton
+[2023.03.28-00.37.41:320][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/Tipo_Skeleton43A9208F461BE46BB1188496E1EECCD8.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Tipo_Skeleton.uasset'
+[2023.03.28-00.37.41:339][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Animations/CarryingBlendspace
+[2023.03.28-00.37.41:340][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/CarryingBlendspace7DAB4B4D4812FF33BDAC3B9A0EDF2E96.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Animations/CarryingBlendspace.uasset'
+[2023.03.28-00.37.41:361][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Animations/Tipo_Anim_IdleCarry
+[2023.03.28-00.37.41:363][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/Tipo_Anim_IdleCarry6A2E9BBC4A7F1096FD599CAB0E04637E.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Animations/Tipo_Anim_IdleCarry.uasset'
+[2023.03.28-00.37.41:386][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Animations/Tipo_Anim_RunningCarry
+[2023.03.28-00.37.41:386][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/Tipo_Anim_RunningCarryE7756DA343A0D8AABCA0A88D65840A56.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Animations/Tipo_Anim_RunningCarry.uasset'
+[2023.03.28-00.37.41:409][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Animations/Tipo_Anim_WalkingCarry
+[2023.03.28-00.37.41:409][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/Tipo_Anim_WalkingCarryD1F8F184458AD4EBEDFBF5AD3C6B1C75.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Animations/Tipo_Anim_WalkingCarry.uasset'
+[2023.03.28-00.37.41:430][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Animations/HittingBlendspace
+[2023.03.28-00.37.41:431][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/HittingBlendspaceD3F04E104A5CD1F01CEB5BBD4684FE41.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Animations/HittingBlendspace.uasset'
+[2023.03.28-00.37.41:459][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Animations/Tipo_Anim_IdleHit
+[2023.03.28-00.37.41:460][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/Tipo_Anim_IdleHit238BC66B4284BBC9FE3C159535392502.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Animations/Tipo_Anim_IdleHit.uasset'
+[2023.03.28-00.37.41:481][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Animations/Tipo_Anim_RunningHit
+[2023.03.28-00.37.41:482][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/Tipo_Anim_RunningHit3103BE7043158429CEF6CBBA756E0D69.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Animations/Tipo_Anim_RunningHit.uasset'
+[2023.03.28-00.37.41:505][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Animations/Tipo_Anim_WalkingHit
+[2023.03.28-00.37.41:506][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/Tipo_Anim_WalkingHitB921B1434AD5C51F9020889883CC789B.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Animations/Tipo_Anim_WalkingHit.uasset'
+[2023.03.28-00.37.41:525][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Animations/WalkingBlendSpace
+[2023.03.28-00.37.41:526][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/WalkingBlendSpaceBE6FA290459D5724CCD1D5998549D579.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Animations/WalkingBlendSpace.uasset'
+[2023.03.28-00.37.41:548][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Animations/Tipo_Anim_Idle
+[2023.03.28-00.37.41:548][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/Tipo_Anim_Idle48F51272439C5209E1DABCA7D15F77A3.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Animations/Tipo_Anim_Idle.uasset'
+[2023.03.28-00.37.41:572][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Animations/Tipo_Anim_Running
+[2023.03.28-00.37.41:572][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/Tipo_Anim_Running20E7EC094B56668E5E1CB3B9E4DE9F13.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Animations/Tipo_Anim_Running.uasset'
+[2023.03.28-00.37.41:595][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Animations/Tipo_Anim_Walking_001
+[2023.03.28-00.37.41:595][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/Tipo_Anim_Walking_00158E2B5FC409B88ECDA40EF8027A500A0.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Animations/Tipo_Anim_Walking_001.uasset'
+[2023.03.28-00.37.41:678][562]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Animations/NewFolder/Sprinting_Animation
+[2023.03.28-00.37.41:678][562]LogSavePackage: Moving '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Saved/Sprinting_AnimationC900F82643CCA2BCFEBFE8B49CD8B5C9.tmp' to '../../../../../../Users/Joseph Earl/Desktop/New folder/TrophyHoard - Current/Content/Characters/Tipo/Animations/NewFolder/Sprinting_Animation.uasset'
