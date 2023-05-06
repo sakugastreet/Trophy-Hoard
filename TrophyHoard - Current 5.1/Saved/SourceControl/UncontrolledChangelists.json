@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/trophyHoardGame/Trophy-Hoard/TrophyHoard - Current 5.1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"G:/trophyHoardGame/Trophy-Hoard/TrophyHoard - Current 5.1/Content/Characters/Tipo/Tipo_BP.uasset",
+				"G:/trophyHoardGame/Trophy-Hoard/TrophyHoard - Current 5.1/Content/UI/Data/InputActionTable.uasset",
+				"G:/trophyHoardGame/Trophy-Hoard/TrophyHoard - Current 5.1/Content/ThirdPerson/Maps/MainMenuCommonUI.umap",
+				"G:/trophyHoardGame/Trophy-Hoard/TrophyHoard - Current 5.1/Content/StarterContent/Materials/M_Basic_Floor.uasset",
+				"G:/trophyHoardGame/Trophy-Hoard/TrophyHoard - Current 5.1/Content/ThirdPerson/Maps/MainMenu.umap",
+				"G:/trophyHoardGame/Trophy-Hoard/TrophyHoard - Current 5.1/Content/UI/Data/CommonInput_PC_Keyboard.uasset",
+				"G:/trophyHoardGame/Trophy-Hoard/TrophyHoard - Current 5.1/Content/UI/Data/CommonInput_PC_Gamepad.uasset"
+			]
+		}
+	]
+}
