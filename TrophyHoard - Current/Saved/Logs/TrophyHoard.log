@@ -2588,3 +2588,417 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.11-16.28.32:606][ 15]LogHttp: Warning: 00000540048F1900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2023.05.11-16.28.32:606][ 15]LogHttp: Warning: 00000540048F1900: libcurl info message cache 1 (Closing connection 2)
 [2023.05.11-16.28.32:606][ 15]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC1BFB3C3-40A1-FC1A-536E-7197CCCAC8BE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.2-20280985%2B%2B%2BUE5%2BRelease-5.0&UserID=fe6ab4ff45647ebf0f58eeac3e1fc735%7Caec20ac94b944fd39d28b07778102fbb%7C6c88e612-a4f0-4d4a-a52c-fc92a5707e9b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.11-16.45.31:246][560]LogUObjectHash: Compacting FUObjectHashTables data took  31.61ms
+[2023.05.11-16.45.33:296][560]LogSlate: Window 'Save Content' being destroyed
+[2023.05.11-16.45.33:658][560]LogSavePackage: Moving output files for package: /Game/ThirdPerson/GameModes/Main/BP_GameMode
+[2023.05.11-16.45.33:659][560]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/BP_GameModeAA2ECD2146CB8A5D2897909CD5E64088.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/ThirdPerson/GameModes/Main/BP_GameMode.uasset'
+[2023.05.11-16.45.33:762][560]LogShaderCompilers: Display: ================================================
+[2023.05.11-16.45.33:762][560]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.11-16.45.33:762][560]LogShaderCompilers: Display: Total job queries 1098, among them cache hits 790 (71.95%)
+[2023.05.11-16.45.33:762][560]LogShaderCompilers: Display: Tracking 282 distinct input hashes that result in 143 distinct outputs (50.71%)
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: RAM used: 0.32 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: Shaders Compiled: 49
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: Jobs assigned 282, completed 282 (100.00%)
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: Average time worker was idle: 191.92 s
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: Time job spent in pending queue: average 0.41 s, longest 2.35 s
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 2.61 s
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: Job life time (pending + execution): average 1.40 s, max 3.47
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 51.48 s
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: Jobs were issued in 282 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: Average processing rate: 5.48 jobs/sec
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: Effective parallelization: 3.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   15 times, average 1.17 sec, max 1.39 sec, min 0.83 sec)
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   21 times, average 1.01 sec, max 1.29 sec, min 0.74 sec)
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 0.93 sec, max 0.98 sec, min 0.91 sec)
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   29 times, average 0.93 sec, max 1.31 sec, min 0.61 sec)
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display:                          TLightMapDensityVSFNoLightMapPolicy (compiled    4 times, average 0.92 sec, max 0.95 sec, min 0.88 sec)
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.77% of total time (compiled   29 times, average 0.93 sec, max 1.31 sec, min 0.61 sec)
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.76% of total time (compiled   29 times, average 0.80 sec, max 1.13 sec, min 0.49 sec)
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.63% of total time (compiled   21 times, average 1.01 sec, max 1.29 sec, min 0.74 sec)
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 9.60% of total time (compiled   15 times, average 1.17 sec, max 1.39 sec, min 0.83 sec)
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display:                                                  FHitProxyVS - 7.04% of total time (compiled   15 times, average 0.86 sec, max 0.96 sec, min 0.76 sec)
+[2023.05.11-16.45.33:763][560]LogShaderCompilers: Display: ================================================
+[2023.05.11-16.45.33:881][560]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/M_InvisBody
+[2023.05.11-16.45.33:882][560]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/M_InvisBodyA9A6F8D242E931BB84EC1982049A38A6.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/ThirdPerson/Blueprints/M_InvisBody.uasset'
+[2023.05.11-16.45.33:884][560]LogSavePackage: Moving output files for package: /Game/UI/GamePlay/NewMaterialParameterCollection
+[2023.05.11-16.45.33:885][560]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/NewMaterialParameterCollection452A623F4FFF521F4CEAF38E55634ACC.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/UI/GamePlay/NewMaterialParameterCollection.uasset'
+[2023.05.11-16.45.34:151][560]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Tipo_BP
+[2023.05.11-16.45.34:151][560]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/Tipo_BPAC77B6CC4451114A565851999A7DE392.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/Characters/Tipo/Tipo_BP.uasset'
+[2023.05.11-16.45.35:193][560]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/Courtyard.Courtyard
+[2023.05.11-16.45.35:195][560]Cmd: MAP LOAD FILE="../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/ThirdPerson/Maps/Courtyard.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.11-16.45.35:196][560]LightingResults: New page: Lighting Build
+[2023.05.11-16.45.35:230][560]LoadErrors: New page: Loading map: Courtyard.umap
+[2023.05.11-16.45.35:419][560]LogWorld: UWorld::CleanupWorld for LEvelSequence, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-16.45.35:424][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-16.45.35:427][560]MapCheck: New page: Map Check
+[2023.05.11-16.45.35:427][560]LightingResults: New page: Lighting Build
+[2023.05.11-16.45.35:469][560]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.11-16.45.35:495][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.05.11-16.45.35:531][560]LogWorld: UWorld::CleanupWorld for Courtyard, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-16.45.35:532][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-16.45.35:592][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.11-16.45.35:644][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.11-16.45.35:730][560]LogAudio: Display: Audio Device (ID: 1) registered with world 'Courtyard'.
+[2023.05.11-16.45.35:731][560]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.11-16.45.35:732][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-16.45.35:735][560]LogAIModule: Creating AISystem for world Courtyard
+[2023.05.11-16.45.35:916][560]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.11-16.45.35:980][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.05.11-16.45.36:005][560]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.11-16.45.36:005][560]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.217ms to complete.
+[2023.05.11-16.45.36:006][560]LogFileHelpers: Loading map 'Courtyard' took 0.811
+[2023.05.11-16.45.36:104][560]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.11-16.45.36:105][560]LogContentValidation: Display: Validating Blueprint /Game/Characters/Tipo/Tipo_BP.Tipo_BP
+[2023.05.11-16.45.36:106][560]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/GameModes/Main/BP_GameMode.BP_GameMode
+[2023.05.11-16.45.36:106][560]LogContentValidation: Display: Validating MaterialParameterCollection /Game/UI/GamePlay/NewMaterialParameterCollection.NewMaterialParameterCollection
+[2023.05.11-16.45.36:106][560]LogContentValidation: Display: Validating Material /Game/ThirdPerson/Blueprints/M_InvisBody.M_InvisBody
+[2023.05.11-16.45.36:315][561]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.05.11-16.45.38:179][605]LogViewport: Scene viewport resized to 1407x418, mode Windowed.
+[2023.05.11-16.45.38:416][607]LogViewport: Scene viewport resized to 1407x482, mode Windowed.
+[2023.05.11-16.45.38:468][609]LogViewport: Scene viewport resized to 1407x504, mode Windowed.
+[2023.05.11-16.45.38:540][611]LogViewport: Scene viewport resized to 1407x518, mode Windowed.
+[2023.05.11-16.45.38:602][613]LogViewport: Scene viewport resized to 1407x524, mode Windowed.
+[2023.05.11-16.45.38:654][614]LogViewport: Scene viewport resized to 1407x529, mode Windowed.
+[2023.05.11-16.45.38:708][616]LogViewport: Scene viewport resized to 1407x538, mode Windowed.
+[2023.05.11-16.45.38:776][618]LogViewport: Scene viewport resized to 1407x561, mode Windowed.
+[2023.05.11-16.45.38:844][620]LogViewport: Scene viewport resized to 1407x582, mode Windowed.
+[2023.05.11-16.45.38:895][621]LogViewport: Scene viewport resized to 1407x612, mode Windowed.
+[2023.05.11-16.45.38:964][623]LogViewport: Scene viewport resized to 1407x624, mode Windowed.
+[2023.05.11-16.45.39:031][625]LogViewport: Scene viewport resized to 1407x629, mode Windowed.
+[2023.05.11-16.45.39:198][631]LogViewport: Scene viewport resized to 1407x635, mode Windowed.
+[2023.05.11-16.46.15:067][346]LogSlate: Window 'Message' being destroyed
+[2023.05.11-16.46.15:190][346]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/UI/GamePlay/MiniMap_MAT.MiniMap_MAT
+(Selecting 'No' will cause all changes to be lost!)
+[2023.05.11-16.46.20:818][346]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2023.05.11-16.46.56:469][346]LogSlate: Window 'Message' being destroyed
+[2023.05.11-16.46.56:491][346]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/UI/GamePlay/MiniMap_MAT.MiniMap_MAT
+(Selecting 'No' will cause all changes to be lost!)
+[2023.05.11-16.49.18:945][823]LogDerivedDataCache: C:/Users/austi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.591 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.11-16.50.57:438][ 82]BlueprintLog: New page: Compile Tipo_BP
+[2023.05.11-16.50.57:781][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.05.11-16.53.11:952][271]LogViewport: Scene viewport resized to 1141x686, mode Windowed.
+[2023.05.11-16.55.28:715][927]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.11-16.55.28:774][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.11-16.55.28:776][927]PIE: New page: PIE session: Courtyard (May 11, 2023, 4:55:28 AM)
+[2023.05.11-16.55.28:826][927]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.05.11-16.55.28:827][927]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.11-16.55.28:828][927]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.05.11-16.55.28:955][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127953s)
+[2023.05.11-16.55.28:957][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Courtyard.Courtyard to /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard (0.128306s)
+[2023.05.11-16.55.28:957][927]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.11-16.55.28:957][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-16.55.28:958][927]LogAIModule: Creating AISystem for world Courtyard
+[2023.05.11-16.55.28:959][927]LogPlayLevel: PIE: World Init took: (0.002444s)
+[2023.05.11-16.55.29:022][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.05.11-16.55.29:031][927]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.11-16.55.29:034][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.11-16.55.29:034][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.11-16.55.29:034][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.11-16.55.29:034][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.11-16.55.29:034][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.11-16.55.29:034][927]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.11-16.55.29:034][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.11-16.55.29:035][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.11-16.55.29:038][927]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.11-16.55.29:039][927]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.11-16.55.29:039][927]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.11-16.55.29:041][927]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.11-16.55.29:121][927]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.11-16.55.29:124][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.11-16.55.29:124][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.11-16.55.29:125][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.11-16.55.29:127][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.05.11-16.55.29:127][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.05.11-16.55.29:128][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.05.11-16.55.29:128][927]LogInit: FAudioDevice initialized.
+[2023.05.11-16.55.29:128][927]LogAudio: Display: Audio Device (ID: 2) registered with world 'Courtyard'.
+[2023.05.11-16.55.29:161][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.05.11-16.55.29:162][927]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.05.11-16.55.29:202][927]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.11-16.55.29:238][927]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard up for play (max tick rate 60) at 2023.05.11-10.55.29
+[2023.05.11-16.55.29:240][927]LogWorld: Bringing up level for play took: 0.036778
+[2023.05.11-16.55.29:242][927]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.05.11-16.55.29:415][927]LogBlueprintUserMessages: [Courtyard_C_0] 0
+[2023.05.11-16.55.29:415][927]PIE: Server logged in
+[2023.05.11-16.55.29:417][927]PIE: Play in editor total start time 0.666 seconds.
+[2023.05.11-16.55.30:004][928]LogSlate: Took 0.004714 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.11-16.55.30:004][928]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.05.11-16.55.30:012][928]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.05.11-16.55.30:017][928]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2023.05.11-16.55.30:017][928]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2023.05.11-16.55.53:788][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.11-16.55.53:788][635]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.05.11-16.55.53:789][635]LogWorld: UWorld::CleanupWorld for Courtyard, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-16.55.53:803][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-16.55.53:821][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.11-16.55.53:829][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-16.55.53:880][635]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.11-16.55.53:886][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.11-16.55.53:889][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.11-16.55.53:895][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.11-16.55.53:995][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.05.11-16.55.54:033][636]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.05.11-16.56.07:650][980]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Test.Test
+[2023.05.11-16.56.07:652][980]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-16.56.23:638][349]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Test
+[2023.05.11-16.56.23:639][349]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/TestFB309BEB4CA91513FD637A82A649AE11.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/ThirdPerson/Blueprints/Test.uasset'
+[2023.05.11-16.56.23:694][349]AssetCheck: New page: Asset Save: Test
+[2023.05.11-16.56.23:694][349]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Test.Test
+[2023.05.11-16.56.29:234][464]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.11-16.56.29:245][464]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.11-16.56.29:270][464]LogPlayLevel: [PlayLevel] Compiling Test before play...
+[2023.05.11-16.56.29:469][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.05.11-16.56.29:470][464]LogPlayLevel: PlayLevel: Blueprint regeneration took 225 ms (1 blueprints)
+[2023.05.11-16.56.29:470][464]PIE: New page: PIE session: Courtyard (May 11, 2023, 4:56:29 AM)
+[2023.05.11-16.56.29:471][464]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.05.11-16.56.29:550][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079603s)
+[2023.05.11-16.56.29:550][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Courtyard.Courtyard to /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard (0.079682s)
+[2023.05.11-16.56.29:551][464]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.11-16.56.29:551][464]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-16.56.29:551][464]LogAIModule: Creating AISystem for world Courtyard
+[2023.05.11-16.56.29:552][464]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2023.05.11-16.56.29:599][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.05.11-16.56.29:601][464]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.05.11-16.56.29:601][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.11-16.56.29:601][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.11-16.56.29:601][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.11-16.56.29:601][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.11-16.56.29:601][464]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.11-16.56.29:601][464]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.11-16.56.29:601][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.11-16.56.29:601][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.11-16.56.29:601][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.11-16.56.29:601][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.11-16.56.29:601][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.11-16.56.29:603][464]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.11-16.56.29:662][464]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.11-16.56.29:662][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.11-16.56.29:662][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.11-16.56.29:662][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.11-16.56.29:662][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.05.11-16.56.29:662][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.05.11-16.56.29:665][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.05.11-16.56.29:665][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.05.11-16.56.29:665][464]LogInit: FAudioDevice initialized.
+[2023.05.11-16.56.29:665][464]LogAudio: Display: Audio Device (ID: 3) registered with world 'Courtyard'.
+[2023.05.11-16.56.29:665][464]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.05.11-16.56.29:682][464]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.11-16.56.29:707][464]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard up for play (max tick rate 60) at 2023.05.11-10.56.29
+[2023.05.11-16.56.29:708][464]LogWorld: Bringing up level for play took: 0.026439
+[2023.05.11-16.56.29:710][464]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.05.11-16.56.29:713][464]LogBlueprintUserMessages: [Courtyard_C_0] 0
+[2023.05.11-16.56.29:714][464]PIE: Server logged in
+[2023.05.11-16.56.29:715][464]PIE: Play in editor total start time 0.47 seconds.
+[2023.05.11-16.56.29:746][465]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.05.11-16.56.29:749][465]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.05.11-16.56.47:139][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.11-16.56.47:139][978]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.05.11-16.56.47:140][978]LogWorld: UWorld::CleanupWorld for Courtyard, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-16.56.47:183][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-16.56.47:207][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.11-16.56.47:216][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-16.56.47:264][978]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.11-16.56.47:266][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.11-16.56.47:268][978]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.11-16.56.47:274][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.11-16.56.47:286][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.05.11-16.56.47:328][979]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.05.11-16.57.02:161][410]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Test
+[2023.05.11-16.57.02:161][410]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/Test65F2605C46E54BDC172D1CA836D792B3.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/ThirdPerson/Blueprints/Test.uasset'
+[2023.05.11-16.57.02:225][410]AssetCheck: New page: Asset Save: Test
+[2023.05.11-16.57.02:225][410]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Test.Test
+[2023.05.11-16.57.03:731][447]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-16.57.03:731][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-17.04.55:506][527]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Tipo_BP
+[2023.05.11-17.04.55:507][527]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/Tipo_BPD4EB1BCC4B3882AC2484E0B90C72F692.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/Characters/Tipo/Tipo_BP.uasset'
+[2023.05.11-17.04.55:564][527]AssetCheck: New page: Asset Save: Tipo_BP
+[2023.05.11-17.04.55:564][527]LogContentValidation: Display: Validating Blueprint /Game/Characters/Tipo/Tipo_BP.Tipo_BP
+[2023.05.11-17.05.29:582][242]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Tipo_BP
+[2023.05.11-17.05.29:582][242]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/Tipo_BP4D9416864457D564856F1FB84547C609.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/Characters/Tipo/Tipo_BP.uasset'
+[2023.05.11-17.05.29:652][242]AssetCheck: New page: Asset Save: Tipo_BP
+[2023.05.11-17.05.29:652][242]LogContentValidation: Display: Validating Blueprint /Game/Characters/Tipo/Tipo_BP.Tipo_BP
+[2023.05.11-17.05.39:676][491]LogMaterialEditor: Saving and Compiling material M_InvisBody
+[2023.05.11-17.05.43:347][491]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 05C4A1FB7F6C423F571C2344B525E9B1776365CB), compiling. 
+[2023.05.11-17.05.43:402][491]LogMaterial: Display: Missing cached shadermap for M_InvisBody in PCD3D_SM5, Default, SM5 (DDC key hash: B87BD78A93F69FAF52DCB61F0342F3E33077F6D7), compiling. 
+[2023.05.11-17.05.43:595][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.05.11-17.05.43:834][491]LogShaderCompilers: Display: ================================================
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: Total job queries 1120, among them cache hits 800 (71.43%)
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: Tracking 282 distinct input hashes that result in 143 distinct outputs (50.71%)
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: RAM used: 0.32 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: Shaders Compiled: 49
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: Jobs assigned 290, completed 282 (97.24%)
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: Average time worker was idle: 2014.80 s
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: Time job spent in pending queue: average 0.40 s, longest 2.35 s
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 2.61 s
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: Job life time (pending + execution): average 1.40 s, max 3.47
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 51.48 s
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: Jobs were issued in 290 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: Average processing rate: 5.48 jobs/sec
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: Effective parallelization: 3.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   15 times, average 1.17 sec, max 1.39 sec, min 0.83 sec)
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   21 times, average 1.01 sec, max 1.29 sec, min 0.74 sec)
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 0.93 sec, max 0.98 sec, min 0.91 sec)
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   29 times, average 0.93 sec, max 1.31 sec, min 0.61 sec)
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display:                          TLightMapDensityVSFNoLightMapPolicy (compiled    4 times, average 0.92 sec, max 0.95 sec, min 0.88 sec)
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.77% of total time (compiled   29 times, average 0.93 sec, max 1.31 sec, min 0.61 sec)
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.76% of total time (compiled   29 times, average 0.80 sec, max 1.13 sec, min 0.49 sec)
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.63% of total time (compiled   21 times, average 1.01 sec, max 1.29 sec, min 0.74 sec)
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 9.60% of total time (compiled   15 times, average 1.17 sec, max 1.39 sec, min 0.83 sec)
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display:                                                  FHitProxyVS - 7.04% of total time (compiled   15 times, average 0.86 sec, max 0.96 sec, min 0.76 sec)
+[2023.05.11-17.05.43:835][491]LogShaderCompilers: Display: ================================================
+[2023.05.11-17.05.46:725][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.11-17.05.49:293][491]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.11-17.05.49:700][491]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002011s (0.559942s overbudget)
+[2023.05.11-17.05.49:771][491]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/M_InvisBody
+[2023.05.11-17.05.49:772][491]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/M_InvisBody1306EC984F685351CF395AB0200CBFDD.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/ThirdPerson/Blueprints/M_InvisBody.uasset'
+[2023.05.11-17.05.49:830][491]AssetCheck: New page: Asset Save: M_InvisBody
+[2023.05.11-17.05.49:830][491]LogContentValidation: Display: Validating Material /Game/ThirdPerson/Blueprints/M_InvisBody.M_InvisBody
+[2023.05.11-17.05.49:840][491]MaterialEditorStats: Base pass shader: 143 instructions
+[2023.05.11-17.05.49:840][491]MaterialEditorStats: Base pass vertex shader: 228 instructions
+[2023.05.11-17.05.49:840][491]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.11-17.05.49:840][491]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.11-17.05.49:840][491]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.11-17.05.49:840][491]MaterialEditorStats: Shader Count: 35
+[2023.05.11-17.06.00:716][791]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.11-17.06.00:728][791]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.11-17.06.00:732][791]LogPlayLevel: [PlayLevel] Compiling Test before play...
+[2023.05.11-17.06.00:836][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.05.11-17.06.00:842][791]LogPlayLevel: PlayLevel: Blueprint regeneration took 114 ms (1 blueprints)
+[2023.05.11-17.06.00:843][791]PIE: New page: PIE session: Courtyard (May 11, 2023, 5:06:00 AM)
+[2023.05.11-17.06.00:843][791]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.05.11-17.06.00:924][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081603s)
+[2023.05.11-17.06.00:924][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Courtyard.Courtyard to /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard (0.081697s)
+[2023.05.11-17.06.00:924][791]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.11-17.06.00:924][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-17.06.00:925][791]LogAIModule: Creating AISystem for world Courtyard
+[2023.05.11-17.06.00:925][791]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2023.05.11-17.06.00:970][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.11-17.06.00:971][791]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.11-17.06.00:971][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.11-17.06.00:971][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.11-17.06.00:971][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.11-17.06.00:971][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.11-17.06.00:971][791]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.11-17.06.00:972][791]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.11-17.06.00:972][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.11-17.06.00:973][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.11-17.06.00:973][791]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.11-17.06.00:973][791]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.11-17.06.00:973][791]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.11-17.06.00:976][791]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.11-17.06.01:022][791]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.11-17.06.01:027][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.11-17.06.01:027][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.11-17.06.01:027][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.11-17.06.01:027][791]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.05.11-17.06.01:027][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.05.11-17.06.01:029][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.05.11-17.06.01:029][791]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.05.11-17.06.01:029][791]LogInit: FAudioDevice initialized.
+[2023.05.11-17.06.01:029][791]LogAudio: Display: Audio Device (ID: 4) registered with world 'Courtyard'.
+[2023.05.11-17.06.01:029][791]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.05.11-17.06.01:046][791]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.11-17.06.01:078][791]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard up for play (max tick rate 0) at 2023.05.11-11.06.01
+[2023.05.11-17.06.01:079][791]LogWorld: Bringing up level for play took: 0.032514
+[2023.05.11-17.06.01:081][791]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.05.11-17.06.01:084][791]LogBlueprintUserMessages: [Courtyard_C_0] 0
+[2023.05.11-17.06.01:084][791]PIE: Server logged in
+[2023.05.11-17.06.01:086][791]PIE: Play in editor total start time 0.358 seconds.
+[2023.05.11-17.06.01:105][792]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.05.11-17.06.01:108][792]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.05.11-17.06.14:465][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.11-17.06.14:467][181]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.05.11-17.06.14:468][181]LogWorld: UWorld::CleanupWorld for Courtyard, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-17.06.14:485][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-17.06.14:514][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.11-17.06.14:525][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-17.06.14:580][181]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.11-17.06.14:580][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.11-17.06.14:583][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.11-17.06.14:588][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.11-17.06.14:602][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.11-17.06.14:662][182]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.05.11-17.06.52:526][107]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Test.Test
+[2023.05.11-17.06.52:527][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-17.07.00:382][247]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Test
+[2023.05.11-17.07.00:383][247]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/TestDE5BDEDD49D6F9EA1D2F909BFB8AF2B1.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/ThirdPerson/Blueprints/Test.uasset'
+[2023.05.11-17.07.00:439][247]AssetCheck: New page: Asset Save: Test
+[2023.05.11-17.07.00:439][247]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Test.Test
+[2023.05.11-17.07.02:121][290]BlueprintLog: New page: Compile Test
+[2023.05.11-17.07.02:212][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.11-17.07.10:248][437]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.11-17.07.10:264][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.11-17.07.10:264][437]PIE: New page: PIE session: Courtyard (May 11, 2023, 5:07:10 AM)
+[2023.05.11-17.07.10:264][437]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.05.11-17.07.10:362][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097165s)
+[2023.05.11-17.07.10:362][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Courtyard.Courtyard to /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard (0.097256s)
+[2023.05.11-17.07.10:362][437]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.11-17.07.10:363][437]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.11-17.07.10:363][437]LogAIModule: Creating AISystem for world Courtyard
+[2023.05.11-17.07.10:363][437]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2023.05.11-17.07.10:413][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.05.11-17.07.10:416][437]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.05.11-17.07.10:416][437]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.11-17.07.10:416][437]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.11-17.07.10:416][437]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.11-17.07.10:416][437]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.11-17.07.10:416][437]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.11-17.07.10:416][437]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.11-17.07.10:416][437]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.11-17.07.10:416][437]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.11-17.07.10:417][437]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.11-17.07.10:417][437]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.11-17.07.10:417][437]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.11-17.07.10:420][437]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.11-17.07.10:487][437]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.11-17.07.10:487][437]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.11-17.07.10:487][437]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.11-17.07.10:487][437]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.11-17.07.10:489][437]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.05.11-17.07.10:489][437]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.05.11-17.07.10:490][437]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.05.11-17.07.10:490][437]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.05.11-17.07.10:490][437]LogInit: FAudioDevice initialized.
+[2023.05.11-17.07.10:490][437]LogAudio: Display: Audio Device (ID: 5) registered with world 'Courtyard'.
+[2023.05.11-17.07.10:495][437]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.05.11-17.07.10:508][437]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.11-17.07.10:542][437]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard up for play (max tick rate 0) at 2023.05.11-11.07.10
+[2023.05.11-17.07.10:542][437]LogWorld: Bringing up level for play took: 0.033926
+[2023.05.11-17.07.10:545][437]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.05.11-17.07.10:548][437]LogBlueprintUserMessages: [Courtyard_C_0] 0
+[2023.05.11-17.07.10:548][437]PIE: Server logged in
+[2023.05.11-17.07.10:549][437]PIE: Play in editor total start time 0.284 seconds.
+[2023.05.11-17.07.10:569][438]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.05.11-17.07.10:572][438]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.05.11-17.07.14:818][557]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.05.11-17.07.14:819][557]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.05.11-17.07.29:816][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.11-17.07.29:816][  7]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.05.11-17.07.29:816][  7]LogWorld: UWorld::CleanupWorld for Courtyard, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-17.07.29:828][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-17.07.29:863][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.11-17.07.29:871][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.11-17.07.29:923][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.11-17.07.29:923][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.11-17.07.29:924][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.11-17.07.29:932][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.11-17.07.29:947][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.05.11-17.07.29:992][  8]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.05.11-17.07.48:074][430]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Test
+[2023.05.11-17.07.48:074][430]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/Test1A3FB8F14686B558B0167FA31BAD1CB6.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/ThirdPerson/Blueprints/Test.uasset'
+[2023.05.11-17.07.48:127][430]AssetCheck: New page: Asset Save: Test
+[2023.05.11-17.07.48:127][430]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Test.Test
+[2023.05.11-17.08.16:387][125]LogMaterialEditor: Saving and Compiling material M_InvisBody
+[2023.05.11-17.08.16:619][125]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/M_InvisBody
+[2023.05.11-17.08.16:620][125]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/M_InvisBody77242F894D6FE61A82CFCFADD4601A3D.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/ThirdPerson/Blueprints/M_InvisBody.uasset'
+[2023.05.11-17.08.16:752][125]AssetCheck: New page: Asset Save: M_InvisBody
+[2023.05.11-17.08.16:752][125]LogContentValidation: Display: Validating Material /Game/ThirdPerson/Blueprints/M_InvisBody.M_InvisBody
