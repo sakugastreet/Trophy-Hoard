@@ -3293,3 +3293,164 @@ Script Stack (0 frames):
 [2023.06.13-20.34.29:470][883]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/Fireball_BP_Projectile8DBBA6524E294FB590253CA0E2143041.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/ThirdPerson/Blueprints/Fireball_BP_Projectile.uasset'
 [2023.06.13-20.34.29:488][883]AssetCheck: New page: Asset Save: Fireball_BP_Projectile
 [2023.06.13-20.34.29:488][883]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Fireball_BP_Projectile.Fireball_BP_Projectile
+[2023.06.13-20.35.27:584][319]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.13-20.35.27:594][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.13-20.35.27:594][319]PIE: New page: PIE session: Courtyard (Jun 13, 2023, 8:35:27 AM)
+[2023.06.13-20.35.27:594][319]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.06.13-20.35.27:667][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071672s)
+[2023.06.13-20.35.27:667][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Courtyard.Courtyard to /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard (0.071737s)
+[2023.06.13-20.35.27:667][319]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.13-20.35.27:667][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.13-20.35.27:668][319]LogAIModule: Creating AISystem for world Courtyard
+[2023.06.13-20.35.27:668][319]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2023.06.13-20.35.27:721][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.06.13-20.35.27:724][319]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.06.13-20.35.27:724][319]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.13-20.35.27:724][319]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.13-20.35.27:724][319]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.13-20.35.27:724][319]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.13-20.35.27:724][319]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.13-20.35.27:724][319]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.13-20.35.27:724][319]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.13-20.35.27:724][319]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.13-20.35.27:725][319]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.13-20.35.27:725][319]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.13-20.35.27:725][319]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.13-20.35.27:727][319]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.13-20.35.27:763][319]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.06.13-20.35.27:763][319]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.13-20.35.27:763][319]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.13-20.35.27:763][319]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.13-20.35.27:764][319]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.06.13-20.35.27:764][319]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.06.13-20.35.27:766][319]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.06.13-20.35.27:766][319]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.06.13-20.35.27:766][319]LogInit: FAudioDevice initialized.
+[2023.06.13-20.35.27:766][319]LogAudio: Display: Audio Device (ID: 29) registered with world 'Courtyard'.
+[2023.06.13-20.35.27:766][319]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.13-20.35.27:777][319]LogLoad: Game class is 'BP_GameMode_C'
+[2023.06.13-20.35.27:804][319]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard up for play (max tick rate 60) at 2023.06.13-14.35.27
+[2023.06.13-20.35.27:804][319]LogWorld: Bringing up level for play took: 0.028204
+[2023.06.13-20.35.27:807][319]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2023.06.13-20.35.27:810][319]LogBlueprintUserMessages: [Courtyard_C_0] 0
+[2023.06.13-20.35.27:810][319]PIE: Server logged in
+[2023.06.13-20.35.27:811][319]PIE: Play in editor total start time 0.216 seconds.
+[2023.06.13-20.35.27:892][320]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.13-20.35.27:895][320]LogActor: Error: SetOwner(): Failed to set 'Tipo_BP_C_0' owner of 'Tipo_BP_C_0' because it would cause an Owner loop
+[2023.06.13-20.35.27:895][320]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.13-20.35.27:897][320]LogActor: Error: SetOwner(): Failed to set 'Tipo_BP_C_1' owner of 'Tipo_BP_C_1' because it would cause an Owner loop
+[2023.06.13-20.36.26:733][843]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.36.26:733][843]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.37.27:836][506]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.37.27:837][506]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.37.58:096][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.13-20.37.58:096][320]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.06.13-20.37.58:097][320]LogWorld: UWorld::CleanupWorld for Courtyard, bSessionEnded=true, bCleanupResources=true
+[2023.06.13-20.37.58:101][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.13-20.37.58:114][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.13-20.37.58:123][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.13-20.37.58:179][320]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.13-20.37.58:180][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.06.13-20.37.58:182][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.06.13-20.37.58:188][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.13-20.37.58:199][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.06.13-20.37.58:248][321]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.06.13-20.40.25:142][254]LogEditorViewport: Clicking Background
+[2023.06.13-20.40.25:474][257]LogEditorViewport: Clicking Background
+[2023.06.13-20.43.08:125][184]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.13-20.43.08:135][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.13-20.43.08:135][184]PIE: New page: PIE session: Courtyard (Jun 13, 2023, 8:43:08 AM)
+[2023.06.13-20.43.08:136][184]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.06.13-20.43.08:208][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071784s)
+[2023.06.13-20.43.08:208][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Courtyard.Courtyard to /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard (0.071872s)
+[2023.06.13-20.43.08:208][184]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.13-20.43.08:208][184]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.13-20.43.08:208][184]LogAIModule: Creating AISystem for world Courtyard
+[2023.06.13-20.43.08:209][184]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2023.06.13-20.43.08:270][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.06.13-20.43.08:276][184]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.06.13-20.43.08:276][184]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.13-20.43.08:276][184]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.13-20.43.08:276][184]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.13-20.43.08:276][184]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.13-20.43.08:276][184]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.13-20.43.08:276][184]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.13-20.43.08:276][184]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.13-20.43.08:276][184]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.13-20.43.08:277][184]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.13-20.43.08:277][184]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.13-20.43.08:277][184]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.13-20.43.08:279][184]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.13-20.43.08:314][184]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.06.13-20.43.08:314][184]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.13-20.43.08:314][184]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.13-20.43.08:314][184]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.13-20.43.08:315][184]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.06.13-20.43.08:315][184]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.06.13-20.43.08:317][184]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.06.13-20.43.08:317][184]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.06.13-20.43.08:317][184]LogInit: FAudioDevice initialized.
+[2023.06.13-20.43.08:317][184]LogAudio: Display: Audio Device (ID: 30) registered with world 'Courtyard'.
+[2023.06.13-20.43.08:317][184]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.13-20.43.08:329][184]LogLoad: Game class is 'BP_GameMode_C'
+[2023.06.13-20.43.08:356][184]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard up for play (max tick rate 60) at 2023.06.13-14.43.08
+[2023.06.13-20.43.08:357][184]LogWorld: Bringing up level for play took: 0.027712
+[2023.06.13-20.43.08:359][184]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.06.13-20.43.08:362][184]LogBlueprintUserMessages: [Courtyard_C_0] 0
+[2023.06.13-20.43.08:362][184]PIE: Server logged in
+[2023.06.13-20.43.08:363][184]PIE: Play in editor total start time 0.228 seconds.
+[2023.06.13-20.43.08:380][185]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.13-20.43.08:383][185]LogActor: Error: SetOwner(): Failed to set 'Tipo_BP_C_0' owner of 'Tipo_BP_C_0' because it would cause an Owner loop
+[2023.06.13-20.43.08:383][185]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.13-20.43.08:385][185]LogActor: Error: SetOwner(): Failed to set 'Tipo_BP_C_1' owner of 'Tipo_BP_C_1' because it would cause an Owner loop
+[2023.06.13-20.43.39:010][ 12]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.43.39:010][ 12]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.44.40:125][676]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.44.40:125][676]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.45.41:238][340]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.45.41:238][340]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.46.38:463][773]LogNet: Browse: /Game/ThirdPerson/Maps/Courtyard
+[2023.06.13-20.46.38:463][773]LogLoad: LoadMap: /Game/ThirdPerson/Maps/Courtyard
+[2023.06.13-20.46.38:464][773]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.06.13-20.46.38:465][773]LogWorld: UWorld::CleanupWorld for Courtyard, bSessionEnded=true, bCleanupResources=true
+[2023.06.13-20.46.38:470][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.13-20.46.38:545][773]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.13-20.46.38:563][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.06.13-20.46.38:565][773]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.46.38:565][773]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.46.38:568][773]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.06.13-20.46.38:639][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070449s)
+[2023.06.13-20.46.38:639][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Courtyard.Courtyard to /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard (0.070536s)
+[2023.06.13-20.46.38:640][773]LogAudio: Display: Audio Device (ID: 30) registered with world 'Courtyard'.
+[2023.06.13-20.46.38:640][773]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.13-20.46.38:640][773]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.13-20.46.38:640][773]LogAIModule: Creating AISystem for world Courtyard
+[2023.06.13-20.46.38:641][773]LogPlayLevel: PIE: World Init took: (0.001777s)
+[2023.06.13-20.46.38:641][773]LogLoad: Game class is 'BP_GameMode_C'
+[2023.06.13-20.46.38:662][773]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard up for play (max tick rate 60) at 2023.06.13-14.46.38
+[2023.06.13-20.46.38:663][773]LogWorld: Bringing up level for play took: 0.021224
+[2023.06.13-20.46.38:665][773]LogBlueprintUserMessages: [Courtyard_C_0] 1
+[2023.06.13-20.46.38:666][773]LogLoad: Took 0.203623 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_Courtyard)
+[2023.06.13-20.46.38:683][774]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.13-20.46.38:686][774]LogActor: Error: SetOwner(): Failed to set 'Tipo_BP_C_0' owner of 'Tipo_BP_C_0' because it would cause an Owner loop
+[2023.06.13-20.46.38:686][774]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.13-20.46.38:687][774]LogActor: Error: SetOwner(): Failed to set 'Tipo_BP_C_1' owner of 'Tipo_BP_C_1' because it would cause an Owner loop
+[2023.06.13-20.46.42:336][988]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.46.42:336][988]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.47.43:447][652]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.47.43:447][652]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.48.44:554][316]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.48.44:554][316]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.49.45:657][979]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.49.45:658][979]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.13-20.50.01:757][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.13-20.50.01:757][944]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.06.13-20.50.01:758][944]LogWorld: UWorld::CleanupWorld for Courtyard, bSessionEnded=true, bCleanupResources=true
+[2023.06.13-20.50.01:762][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.13-20.50.01:776][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.13-20.50.01:787][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.13-20.50.01:843][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.13-20.50.01:844][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.06.13-20.50.01:846][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.06.13-20.50.01:864][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.06.13-20.50.01:900][945]LogPlayLevel: Display: Destroying online subsystem :Context_58
