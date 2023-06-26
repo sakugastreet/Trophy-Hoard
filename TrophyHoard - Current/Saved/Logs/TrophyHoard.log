@@ -4687,3 +4687,974 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.06.26-20.15.36:615][208]LogPlayLevel: Display: Destroying online subsystem :Context_25
 [2023.06.26-20.15.38:377][320]LogSlate: Window 'Message Log' being destroyed
 [2023.06.26-20.15.38:393][320]LogSlate: Window 'Message Log' being destroyed
+[2023.06.26-20.18.45:204][644]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-20.18.45:216][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-20.18.45:216][644]PIE: New page: PIE session: Courtyard (Jun 26, 2023, 8:18:45 AM)
+[2023.06.26-20.18.45:262][644]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.06.26-20.18.45:327][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065368s)
+[2023.06.26-20.18.45:327][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Courtyard.Courtyard to /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard (0.065471s)
+[2023.06.26-20.18.45:327][644]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.26-20.18.45:328][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-20.18.45:328][644]LogAIModule: Creating AISystem for world Courtyard
+[2023.06.26-20.18.45:329][644]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2023.06.26-20.18.45:369][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.06.26-20.18.45:370][644]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.06.26-20.18.45:370][644]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-20.18.45:370][644]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-20.18.45:370][644]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-20.18.45:370][644]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-20.18.45:370][644]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-20.18.45:370][644]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-20.18.45:370][644]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-20.18.45:370][644]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-20.18.45:371][644]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-20.18.45:371][644]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-20.18.45:371][644]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-20.18.45:372][644]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-20.18.45:406][644]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.06.26-20.18.45:407][644]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-20.18.45:407][644]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-20.18.45:407][644]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-20.18.45:408][644]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.06.26-20.18.45:408][644]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.06.26-20.18.45:409][644]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.06.26-20.18.45:409][644]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.06.26-20.18.45:409][644]LogInit: FAudioDevice initialized.
+[2023.06.26-20.18.45:409][644]LogAudio: Display: Audio Device (ID: 10) registered with world 'Courtyard'.
+[2023.06.26-20.18.45:409][644]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.26-20.18.45:418][644]LogLoad: Game class is 'BP_GameMode_C'
+[2023.06.26-20.18.45:444][644]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard up for play (max tick rate 0) at 2023.06.26-14.18.45
+[2023.06.26-20.18.45:445][644]LogWorld: Bringing up level for play took: 0.025823
+[2023.06.26-20.18.45:446][644]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.06.26-20.18.45:446][644]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.06.26-20.18.45:447][644]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.26-20.18.45:448][644]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.06.26-20.18.45:451][644]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] PlayerController_0
+[2023.06.26-20.18.45:451][644]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Player
+[2023.06.26-20.18.45:451][644]LogActor: Error: SetOwner(): Failed to set 'Tipo_BP_C_0' owner of 'Tipo_BP_C_0' because it would cause an Owner loop
+[2023.06.26-20.18.45:451][644]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.26-20.18.45:452][644]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.06.26-20.18.45:454][644]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] PlayerController_1
+[2023.06.26-20.18.45:454][644]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Player
+[2023.06.26-20.18.45:454][644]LogActor: Error: SetOwner(): Failed to set 'Tipo_BP_C_1' owner of 'Tipo_BP_C_1' because it would cause an Owner loop
+[2023.06.26-20.18.45:454][644]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.26-20.18.45:455][644]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.06.26-20.18.45:456][644]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] PlayerController_2
+[2023.06.26-20.18.45:456][644]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Player
+[2023.06.26-20.18.45:457][644]LogActor: Error: SetOwner(): Failed to set 'Tipo_BP_C_2' owner of 'Tipo_BP_C_2' because it would cause an Owner loop
+[2023.06.26-20.18.45:457][644]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2023.06.26-20.18.45:458][644]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] PlayerController_3
+[2023.06.26-20.18.45:459][644]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Player
+[2023.06.26-20.18.45:459][644]LogActor: Error: SetOwner(): Failed to set 'Tipo_BP_C_3' owner of 'Tipo_BP_C_3' because it would cause an Owner loop
+[2023.06.26-20.18.45:459][644]LogBlueprintUserMessages: [Courtyard_C_0] -1
+[2023.06.26-20.18.45:459][644]PIE: Server logged in
+[2023.06.26-20.18.45:460][644]PIE: Play in editor total start time 0.245 seconds.
+[2023.06.26-20.18.45:752][653]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2023.06.26-20.18.50:206][907]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Wassu]
+[2023.06.26-20.18.50:206][907]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Wassu]
+[2023.06.26-20.18.50:206][907]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Wassu]
+[2023.06.26-20.18.50:206][907]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Wassu]
+[2023.06.26-20.18.55:090][173]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Gamepad
+[2023.06.26-20.18.55:090][173]LogSlate: User[0] UsePlatformCursorForCursorUser(false)
+[2023.06.26-20.18.55:092][173]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.55:092][173]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.55:092][173]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.55:092][173]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.55:092][173]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.55:092][173]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.55:914][217]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.55:915][217]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.55:915][217]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.55:915][217]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.55:915][217]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.55:915][217]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.55:952][219]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.55:952][219]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.55:952][219]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.55:952][219]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.55:952][219]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.55:952][219]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.55:990][221]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.55:990][221]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.55:990][221]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.55:990][221]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.55:990][221]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.55:990][221]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:028][223]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:028][223]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:028][223]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:028][223]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:028][223]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:028][223]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:065][225]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:065][225]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:065][225]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:065][225]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:065][225]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:065][225]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:102][227]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:102][227]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:102][227]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:102][227]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:102][227]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:102][227]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:140][229]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:140][229]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:140][229]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:140][229]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:140][229]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:140][229]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:178][231]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:178][231]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:178][231]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:178][231]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:178][231]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:178][231]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:215][233]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:215][233]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:215][233]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:215][233]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:215][233]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:215][233]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:252][235]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:252][235]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:252][235]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:252][235]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:252][235]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:252][235]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:288][237]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:289][237]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:289][237]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:289][237]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:289][237]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:289][237]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:326][239]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:326][239]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:326][239]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:326][239]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:326][239]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:326][239]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:364][241]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:364][241]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:364][241]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:364][241]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:364][241]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:364][241]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:400][243]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:400][243]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:400][243]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:400][243]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:400][243]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:400][243]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:439][245]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:439][245]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:439][245]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:439][245]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:439][245]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:439][245]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:475][247]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:475][247]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:475][247]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:475][247]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:475][247]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:475][247]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:512][249]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:512][249]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:512][249]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:512][249]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:512][249]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:512][249]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:551][251]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:551][251]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:551][251]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:551][251]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:551][251]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:551][251]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:587][253]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:587][253]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:587][253]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:587][253]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:587][253]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:587][253]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:718][260]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:719][260]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:719][260]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:719][260]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:719][260]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:719][260]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:754][262]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:754][262]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:754][262]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:754][262]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:754][262]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:754][262]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:792][264]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:792][264]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:792][264]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:792][264]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:792][264]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:792][264]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:829][266]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:829][266]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:829][266]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:830][266]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:830][266]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:830][266]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:867][268]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:867][268]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:867][268]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:867][268]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:867][268]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:867][268]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:905][270]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:905][270]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:905][270]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:905][270]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:905][270]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:905][270]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:941][272]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:941][272]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:941][272]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:941][272]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:941][272]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:941][272]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.56:980][274]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.56:980][274]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.56:980][274]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.56:980][274]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.56:980][274]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.56:980][274]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.57:017][276]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.57:017][276]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.57:017][276]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.57:017][276]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.57:017][276]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.57:017][276]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.57:052][278]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.57:052][278]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.57:052][278]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.57:052][278]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.57:052][278]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.57:053][278]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.57:091][280]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.57:091][280]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.57:091][280]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.57:091][280]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.57:091][280]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.57:091][280]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.57:126][282]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.57:126][282]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.57:126][282]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.57:126][282]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.57:126][282]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.57:126][282]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.57:162][284]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.57:162][284]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.57:162][284]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.57:162][284]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.57:162][284]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.57:162][284]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.57:200][286]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.57:200][286]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.57:200][286]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.57:200][286]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.57:200][286]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.57:200][286]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.57:237][288]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.57:237][288]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.57:237][288]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.57:237][288]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.57:237][288]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.57:237][288]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.57:274][290]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.57:274][290]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.57:274][290]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.57:274][290]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.57:274][290]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.57:274][290]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.57:311][292]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.57:311][292]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.57:311][292]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.57:311][292]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.57:311][292]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.57:311][292]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.57:347][294]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.57:347][294]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.57:347][294]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.57:347][294]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.57:348][294]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.57:348][294]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:283][399]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:283][399]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:283][399]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:283][399]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:283][399]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:283][399]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:320][401]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:320][401]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:320][401]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:320][401]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:320][401]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:320][401]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:357][403]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:357][403]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:357][403]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:357][403]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:357][403]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:357][403]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:394][405]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:394][405]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:394][405]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:394][405]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:394][405]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:394][405]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:432][407]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:432][407]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:432][407]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:432][407]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:432][407]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:432][407]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:469][409]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:469][409]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:469][409]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:469][409]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:469][409]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:469][409]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:505][411]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:505][411]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:505][411]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:505][411]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:505][411]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:506][411]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:542][413]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:542][413]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:542][413]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:542][413]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:542][413]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:542][413]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:578][415]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:578][415]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:578][415]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:578][415]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:578][415]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:578][415]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:615][417]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:615][417]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:615][417]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:615][417]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:615][417]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:615][417]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:652][419]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:652][419]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:652][419]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:652][419]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:652][419]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:652][419]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:690][421]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:690][421]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:690][421]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:690][421]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:690][421]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:690][421]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:726][423]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:726][423]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:726][423]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:726][423]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:726][423]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:726][423]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:763][425]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:763][425]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:763][425]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:763][425]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:763][425]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:763][425]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:800][427]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:800][427]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:800][427]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:800][427]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:800][427]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:800][427]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:836][429]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:836][429]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:836][429]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:836][429]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:836][429]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:836][429]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:872][431]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:874][431]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:874][431]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:874][431]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:874][431]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:874][431]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:910][433]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:910][433]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:910][433]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:910][433]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:911][433]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:911][433]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:947][435]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:947][435]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:947][435]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:947][435]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:947][435]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:947][435]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.18.59:985][437]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.18.59:985][437]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.18.59:985][437]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.18.59:985][437]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.18.59:985][437]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.18.59:985][437]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.00:023][439]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.00:023][439]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.00:023][439]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.00:023][439]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.00:023][439]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.00:023][439]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.00:057][441]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.00:057][441]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.00:057][441]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.00:057][441]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.00:057][441]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.00:057][441]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.00:093][443]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.00:093][443]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.00:093][443]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.00:093][443]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.00:093][443]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.00:093][443]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.11:882][ 76]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.11:882][ 76]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.11:882][ 76]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.11:882][ 76]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.11:882][ 76]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.11:882][ 76]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.11:920][ 78]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.11:920][ 78]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.11:920][ 78]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.11:920][ 78]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.11:920][ 78]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.11:920][ 78]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.11:957][ 80]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.11:957][ 80]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.11:957][ 80]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.11:957][ 80]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.11:958][ 80]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.11:958][ 80]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.11:996][ 82]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.11:996][ 82]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.11:996][ 82]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.11:996][ 82]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.11:996][ 82]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.11:996][ 82]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:035][ 84]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:035][ 84]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:035][ 84]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:035][ 84]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:035][ 84]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:035][ 84]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:071][ 86]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:071][ 86]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:071][ 86]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:071][ 86]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:071][ 86]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:071][ 86]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:109][ 88]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:109][ 88]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:109][ 88]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:109][ 88]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:109][ 88]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:109][ 88]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:147][ 90]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:148][ 90]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:148][ 90]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:148][ 90]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:148][ 90]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:148][ 90]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:186][ 92]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:186][ 92]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:186][ 92]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:186][ 92]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:186][ 92]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:186][ 92]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:223][ 94]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:223][ 94]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:223][ 94]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:223][ 94]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:223][ 94]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:223][ 94]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:262][ 96]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:262][ 96]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:262][ 96]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:262][ 96]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:262][ 96]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:262][ 96]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:300][ 98]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:300][ 98]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:300][ 98]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:300][ 98]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:300][ 98]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:300][ 98]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:337][100]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:337][100]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:337][100]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:337][100]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:337][100]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:338][100]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:376][102]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:376][102]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:376][102]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:376][102]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:376][102]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:376][102]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:413][104]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:413][104]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:414][104]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:414][104]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:414][104]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:414][104]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:451][106]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:451][106]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:451][106]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:451][106]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:451][106]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:451][106]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:490][108]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:490][108]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:490][108]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:490][108]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:490][108]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:490][108]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:528][110]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:528][110]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:528][110]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:528][110]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:528][110]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:528][110]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:566][112]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:566][112]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:566][112]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:566][112]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:566][112]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:566][112]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:604][114]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:604][114]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:604][114]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:604][114]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:604][114]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:604][114]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:642][116]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:642][116]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:642][116]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:642][116]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:642][116]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:642][116]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:680][118]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:680][118]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:680][118]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:680][118]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:680][118]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:680][118]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:719][120]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:719][120]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:719][120]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:719][120]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:719][120]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:719][120]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:757][122]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:757][122]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:757][122]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:757][122]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:757][122]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:757][122]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:795][124]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:795][124]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:795][124]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:795][124]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:795][124]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:795][124]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:833][126]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:833][126]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:833][126]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:833][126]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:833][126]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:833][126]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:872][128]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:872][128]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:872][128]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:872][128]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:872][128]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:872][128]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:909][130]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:909][130]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:909][130]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:909][130]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:909][130]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:909][130]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:948][132]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:948][132]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:948][132]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:948][132]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:948][132]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:948][132]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.12:984][134]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.12:984][134]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.12:984][134]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.12:984][134]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.12:984][134]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.12:984][134]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.13:023][136]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.13:023][136]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.13:023][136]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.13:023][136]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.13:023][136]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.13:023][136]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.13:061][138]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.19.13:061][138]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.19.13:061][138]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.19.13:061][138]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.19.13:061][138]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.19.13:061][138]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.19.15:253][251]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.26-20.19.15:253][251]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.26-20.19.15:253][251]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.26-20.19.15:253][251]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.26-20.19.15:985][291]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2023.06.26-20.19.15:985][291]LogSlate: User[0] UsePlatformCursorForCursorUser(true)
+[2023.06.26-20.19.16:023][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-20.19.16:023][291]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.06.26-20.19.16:023][291]LogWorld: UWorld::CleanupWorld for Courtyard, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-20.19.16:028][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-20.19.16:041][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-20.19.16:047][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-20.19.16:085][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-20.19.16:090][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.06.26-20.19.16:091][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.06.26-20.19.16:105][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.06.26-20.19.16:138][292]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.06.26-20.19.54:886][333]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Tipo_BP
+[2023.06.26-20.19.54:887][333]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/Tipo_BP574247E54B2FEAAAF5E0CEA9CEBADC39.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/Characters/Tipo/Tipo_BP.uasset'
+[2023.06.26-20.19.54:905][333]AssetCheck: New page: Asset Save: Tipo_BP
+[2023.06.26-20.19.54:905][333]LogContentValidation: Display: Validating Blueprint /Game/Characters/Tipo/Tipo_BP.Tipo_BP
+[2023.06.26-20.19.55:654][392]BlueprintLog: New page: Compile Tipo_BP
+[2023.06.26-20.19.55:881][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.06.26-20.19.56:501][400]LogSavePackage: Moving output files for package: /Game/Characters/Tipo/Tipo_BP
+[2023.06.26-20.19.56:501][400]LogSavePackage: Moving '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Saved/Tipo_BP42E035414FF7FB2B8153DFAEA5B5D1A8.tmp' to '../../../../../../Users/austi/OneDrive/Desktop/Trophyyyy/Trophy-Hoard/TrophyHoard - Current/Content/Characters/Tipo/Tipo_BP.uasset'
+[2023.06.26-20.19.56:518][400]AssetCheck: New page: Asset Save: Tipo_BP
+[2023.06.26-20.19.56:518][400]LogContentValidation: Display: Validating Blueprint /Game/Characters/Tipo/Tipo_BP.Tipo_BP
+[2023.06.26-20.19.58:004][499]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-20.19.58:016][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-20.19.58:016][499]PIE: New page: PIE session: Courtyard (Jun 26, 2023, 8:19:58 AM)
+[2023.06.26-20.19.58:016][499]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.06.26-20.19.58:088][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071866s)
+[2023.06.26-20.19.58:088][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Courtyard.Courtyard to /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard (0.071952s)
+[2023.06.26-20.19.58:089][499]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.26-20.19.58:089][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-20.19.58:089][499]LogAIModule: Creating AISystem for world Courtyard
+[2023.06.26-20.19.58:089][499]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2023.06.26-20.19.58:133][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.06.26-20.19.58:135][499]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.06.26-20.19.58:135][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-20.19.58:135][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-20.19.58:135][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-20.19.58:135][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-20.19.58:135][499]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-20.19.58:135][499]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-20.19.58:135][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-20.19.58:135][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-20.19.58:136][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-20.19.58:136][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-20.19.58:136][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-20.19.58:137][499]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-20.19.58:171][499]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.06.26-20.19.58:171][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-20.19.58:171][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-20.19.58:172][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-20.19.58:172][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.06.26-20.19.58:172][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.06.26-20.19.58:173][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.06.26-20.19.58:173][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.06.26-20.19.58:173][499]LogInit: FAudioDevice initialized.
+[2023.06.26-20.19.58:173][499]LogAudio: Display: Audio Device (ID: 11) registered with world 'Courtyard'.
+[2023.06.26-20.19.58:173][499]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.26-20.19.58:183][499]LogLoad: Game class is 'BP_GameMode_C'
+[2023.06.26-20.19.58:207][499]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard.Courtyard up for play (max tick rate 0) at 2023.06.26-14.19.58
+[2023.06.26-20.19.58:208][499]LogWorld: Bringing up level for play took: 0.025335
+[2023.06.26-20.19.58:209][499]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.06.26-20.19.58:211][499]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.06.26-20.19.58:211][499]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.26-20.19.58:212][499]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.06.26-20.19.58:215][499]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] PlayerController_0
+[2023.06.26-20.19.58:215][499]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Player
+[2023.06.26-20.19.58:215][499]LogActor: Error: SetOwner(): Failed to set 'Tipo_BP_C_0' owner of 'Tipo_BP_C_0' because it would cause an Owner loop
+[2023.06.26-20.19.58:215][499]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.26-20.19.58:215][499]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.06.26-20.19.58:217][499]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] PlayerController_1
+[2023.06.26-20.19.58:217][499]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Player
+[2023.06.26-20.19.58:218][499]LogActor: Error: SetOwner(): Failed to set 'Tipo_BP_C_1' owner of 'Tipo_BP_C_1' because it would cause an Owner loop
+[2023.06.26-20.19.58:218][499]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2023.06.26-20.19.58:218][499]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.06.26-20.19.58:220][499]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] PlayerController_2
+[2023.06.26-20.19.58:220][499]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Player
+[2023.06.26-20.19.58:220][499]LogActor: Error: SetOwner(): Failed to set 'Tipo_BP_C_2' owner of 'Tipo_BP_C_2' because it would cause an Owner loop
+[2023.06.26-20.19.58:220][499]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2023.06.26-20.19.58:221][499]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] PlayerController_3
+[2023.06.26-20.19.58:221][499]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Player
+[2023.06.26-20.19.58:221][499]LogActor: Error: SetOwner(): Failed to set 'Tipo_BP_C_3' owner of 'Tipo_BP_C_3' because it would cause an Owner loop
+[2023.06.26-20.19.58:222][499]LogBlueprintUserMessages: [Courtyard_C_0] -1
+[2023.06.26-20.19.58:222][499]PIE: Server logged in
+[2023.06.26-20.19.58:222][499]PIE: Play in editor total start time 0.207 seconds.
+[2023.06.26-20.20.03:002][765]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Wassu]
+[2023.06.26-20.20.03:002][765]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Wassu]
+[2023.06.26-20.20.03:002][765]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Wassu]
+[2023.06.26-20.20.03:002][765]LogBlueprintUserMessages: [Gameplay_Player_Screen_C_0] Wassu]
+[2023.06.26-20.20.11:462][227]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.20.11:462][227]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.20.11:462][227]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.20.11:462][227]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.20.11:463][227]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.20.11:463][227]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.20.58:381][789]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.26-20.20.58:381][789]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.26-20.20.58:381][789]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.26-20.20.58:381][789]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2023.06.26-20.21.07:722][303]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.07:722][303]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.07:722][303]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.07:722][303]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.07:722][303]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.07:722][303]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.07:759][305]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.07:759][305]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.07:759][305]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.07:759][305]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.07:759][305]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.07:759][305]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.07:797][307]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.07:797][307]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.07:797][307]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.07:797][307]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.07:797][307]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.07:797][307]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.07:834][309]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.07:834][309]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.07:834][309]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.07:834][309]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.07:834][309]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.07:834][309]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.07:871][311]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.07:871][311]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.07:871][311]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.07:871][311]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.07:871][311]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.07:871][311]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.07:909][313]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.07:909][313]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.07:909][313]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.07:909][313]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.07:909][313]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.07:909][313]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.07:948][315]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.07:948][315]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.07:948][315]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.07:948][315]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.07:948][315]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.07:948][315]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.07:984][317]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.07:984][317]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.07:984][317]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.07:984][317]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.07:984][317]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.07:984][317]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:021][319]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:021][319]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:021][319]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:021][319]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:021][319]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:021][319]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:058][321]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:058][321]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:058][321]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:058][321]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:058][321]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:058][321]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:096][323]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:096][323]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:096][323]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:096][323]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:096][323]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:096][323]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:133][325]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:133][325]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:133][325]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:133][325]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:133][325]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:133][325]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:171][327]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:171][327]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:171][327]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:171][327]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:171][327]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:171][327]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:208][329]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:208][329]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:208][329]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:208][329]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:208][329]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:208][329]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:244][331]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:244][331]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:244][331]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:244][331]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:244][331]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:244][331]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:282][333]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:282][333]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:282][333]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:282][333]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:282][333]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:282][333]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:320][335]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:320][335]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:320][335]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:320][335]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:320][335]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:320][335]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:357][337]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:357][337]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:357][337]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:357][337]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:357][337]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:357][337]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:394][339]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:394][339]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:394][339]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:394][339]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:394][339]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:394][339]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:432][341]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:432][341]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:432][341]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:432][341]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:432][341]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:432][341]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:468][343]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:468][343]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:468][343]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:468][343]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:468][343]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:468][343]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:505][345]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:505][345]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:505][345]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:505][345]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:505][345]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:506][345]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:542][347]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:542][347]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:542][347]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:542][347]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:542][347]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:542][347]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:579][349]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:579][349]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:579][349]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:579][349]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:579][349]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:579][349]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:618][351]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:618][351]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:618][351]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:618][351]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:618][351]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:618][351]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:655][353]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:655][353]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:655][353]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:655][353]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:655][353]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:655][353]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:692][355]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:692][355]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:692][355]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:692][355]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:692][355]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:692][355]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:731][357]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:731][357]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:731][357]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:731][357]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:731][357]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:731][357]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:768][359]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:768][359]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:768][359]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:768][359]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:768][359]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:768][359]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:807][361]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:807][361]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:807][361]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:807][361]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:807][361]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:807][361]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:844][363]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:844][363]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:844][363]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:844][363]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:844][363]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:844][363]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:883][365]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:883][365]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:883][365]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:883][365]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:883][365]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:883][365]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:921][367]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:921][367]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:921][367]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:921][367]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:921][367]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:921][367]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:959][369]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:959][369]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:959][369]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:959][369]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:959][369]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:959][369]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.08:998][371]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.08:998][371]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.08:998][371]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.08:998][371]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.08:998][371]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.08:998][371]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.09:036][373]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.09:036][373]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.09:036][373]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.09:036][373]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.09:036][373]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.09:036][373]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.09:073][375]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.09:073][375]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.09:073][375]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.09:073][375]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.09:073][375]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.09:073][375]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.09:113][377]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [10/9]!
+[2023.06.26-20.21.09:113][377]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [11/9]!
+[2023.06.26-20.21.09:113][377]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [12/9]!
+[2023.06.26-20.21.09:113][377]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [13/9]!
+[2023.06.26-20.21.09:113][377]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [14/9]!
+[2023.06.26-20.21.09:113][377]LogScript: Warning: Script Msg: Attempted to set an invalid index on array ComponentLocations [15/9]!
+[2023.06.26-20.21.16:202][749]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2023.06.26-20.21.16:234][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-20.21.16:234][749]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Courtyard
+[2023.06.26-20.21.16:234][749]LogWorld: UWorld::CleanupWorld for Courtyard, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-20.21.16:238][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-20.21.16:249][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-20.21.16:258][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-20.21.16:298][749]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-20.21.16:299][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.06.26-20.21.16:301][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.06.26-20.21.16:305][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-20.21.16:318][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.06.26-20.21.16:361][750]LogPlayLevel: Display: Destroying online subsystem :Context_27
